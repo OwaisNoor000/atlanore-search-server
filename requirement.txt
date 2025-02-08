@@ -3,5 +3,5 @@ flask_cors
 sentence_transformers
 scikit-learn
 numpy
-cv2
+opencv-python
 dotenv
