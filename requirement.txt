@@ -4,4 +4,4 @@ sentence_transformers
 scikit-learn
 numpy
 opencv-python
-dotenv
+python-dotenv

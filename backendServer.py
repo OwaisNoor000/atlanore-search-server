@@ -95,3 +95,6 @@ def get_color_llm_response():
 
     return jsonify(data)
 
+
+if __name__ == '__main__':
+    app.run()
