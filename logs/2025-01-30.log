@@ -1,0 +1,399 @@
+running updateProducts process
+Request status code: 200
+Found 34 active products
+Wrote products to productsDB
+
+
+
+running updateProducts process
+Request status code: 200
+Found 34 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 34 products from productsDB
+Created 34 documents
+Persisted indexes to productIndexes
+
+
+
+Running updateProductColors process
+Request status code for retreiving products: 200
+read 192 existing product names
+checking product Akatsuki
+Akatsuki doesnt exist in dir
+checking product Albert Einstein
+Albert Einstein doesnt exist in dir
+checking product APE
+APE doesnt exist in dir
+checking product AREA 51
+AREA 51 doesnt exist in dir
+checking product ASSC
+ASSC doesnt exist in dir
+checking product ASSC
+ASSC doesnt exist in dir
+checking product AssHole
+AssHole doesnt exist in dir
+checking product Astroworld
+Astroworld doesnt exist in dir
+checking product Avatar
+Avatar doesnt exist in dir
+checking product Avocado
+Avocado doesnt exist in dir
+checking product Avocado
+Avocado doesnt exist in dir
+checking product Avocado 🥑
+Avocado 🥑 doesnt exist in dir
+checking product Baby Yoda
+Baby Yoda doesnt exist in dir
+checking product Back to the 90’s
+Back to the 90’s doesnt exist in dir
+checking product BAPE
+BAPE doesnt exist in dir
+checking product BAPE
+BAPE doesnt exist in dir
+checking product Baron Cat
+Baron Cat doesnt exist in dir
+checking product baron cat xs
+baron cat xs doesnt exist in dir
+checking product Bart Simpson
+Bart Simpson doesnt exist in dir
+checking product Batman and Robin
+Batman and Robin doesnt exist in dir
+checking product Be like Pandaa
+Be like Pandaa doesnt exist in dir
+checking product Beatles Pepperland
+Beatles Pepperland doesnt exist in dir
+checking product Beige Fuzzy
+Beige Fuzzy doesnt exist in dir
+checking product Birth of Venus
+Birth of Venus doesnt exist in dir
+checking product BITCH
+BITCH doesnt exist in dir
+checking product Bitch Please i am cat
+Bitch Please i am cat doesnt exist in dir
+checking product Bitch Please i am cat
+Bitch Please i am cat doesnt exist in dir
+checking product Black Flame
+Black Flame doesnt exist in dir
+checking product Black Sushi
+Black Sushi doesnt exist in dir
+checking product Black Vintage Lining
+Black Vintage Lining doesnt exist in dir
+checking product Black X Yellow Flame
+Black X Yellow Flame doesnt exist in dir
+checking product Bloody Hands
+Bloody Hands doesnt exist in dir
+checking product Blue Fuzzy
+Blue Fuzzy doesnt exist in dir
+checking product Blue x Green Nike
+Blue x Green Nike doesnt exist in dir
+checking product Bonne Maison Art
+Bonne Maison Art doesnt exist in dir
+checking product Bonne Maison Art
+Bonne Maison Art doesnt exist in dir
+checking product Bonne Maison Art
+Bonne Maison Art doesnt exist in dir
+checking product BONNE MAISON ART
+BONNE MAISON ART doesnt exist in dir
+checking product Bonne Maison Art
+Bonne Maison Art doesnt exist in dir
+checking product Bonne Maison Art
+Bonne Maison Art doesnt exist in dir
+checking product Bonne Maison Faces Art
+Bonne Maison Faces Art doesnt exist in dir
+checking product Bonne Maison Nude Art
+Bonne Maison Nude Art doesnt exist in dir
+checking product Bonne Maison Nude Art
+Bonne Maison Nude Art doesnt exist in dir
+checking product Bonne Maison Nude Art
+Bonne Maison Nude Art doesnt exist in dir
+checking product Bowling
+Bowling doesnt exist in dir
+checking product Brown David Statue
+Brown David Statue doesnt exist in dir
+checking product Brown Fuzzy
+Brown Fuzzy doesnt exist in dir
+checking product Brownie Lucia
+Brownie Lucia doesnt exist in dir
+checking product Budapest
+Budapest doesnt exist in dir
+checking product Bugs Bunny
+Bugs Bunny doesnt exist in dir
+
+
+
+Running updateProductColors process
+Request status code for retreiving products: 200
+read 192 existing product names
+BONNE MAISON ART doesnt exist in dir
+
+
+
+running updateProducts process
+Request status code: 200
+Found 34 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 34 products from productsDB
+Created 34 documents
+Persisted indexes to productIndexes
+
+
+
+Running updateProductColors process
+Request status code for retreiving products: 200
+read 192 existing product names
+BONNE MAISON ART doesnt exist in dir
+
+
+
+running updateProducts process
+Request status code: 200
+Found 34 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 34 products from productsDB
+Created 34 documents
+Persisted indexes to productIndexes
+
+
+
+running updateProducts process
+Request status code: 200
+Found 34 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 34 products from productsDB
+Created 34 documents
+Persisted indexes to productIndexes
+
+
+
+running updateProducts process
+Request status code: 200
+Found 34 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 34 products from productsDB
+Created 34 documents
+Persisted indexes to productIndexes
+
+
+
+Added 193 colors to colors.json
+
+
+running updateProducts process
+Request status code: 200
+Found 50 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 50 products from productsDB
+Created 50 documents
+Persisted indexes to productIndexes
+
+
+
+Added 193 colors to colors.json
+
+
+running updateProducts process
+Retrived products: 475
+Found 308 active products
+Wrote products to productsDB
+
+
+
+running indexProductDB process
+Read 308 products from productsDB
+Created 308 documents
+Persisted indexes to productIndexes
+
+
+
+Added 193 colors to colors.json
+
+
+Added 193 colors to colors.json
+
+
+Added 193 colors to colors.json
+
+
+Running updateProductColors process
+Retrieved 475 products
+read 201 existing product names
+BONNE MAISON ART doesnt exist in dir
+Corona? doesnt exist in dir
+failed to download image Corona?
+Corpse Bride doesnt exist in dir
+Dancing Lemon doesnt exist in dir
+David Portrait doesnt exist in dir
+DEMON SLAYER-NEZUKO doesnt exist in dir
+Dolphin doesnt exist in dir
+Donald doesnt exist in dir
+Dont Follow Me ( I am lost too) doesnt exist in dir
+Donut doesnt exist in dir
+Embroidered beauty doesnt exist in dir
+Essentials Black doesnt exist in dir
+Essentials Brown doesnt exist in dir
+Essentials Grey doesnt exist in dir
+Essentials White doesnt exist in dir
+Eyes On You doesnt exist in dir
+Fendi Tshirt doesnt exist in dir
+Fendi Tshirt doesnt exist in dir
+Fendi Tshirt doesnt exist in dir
+Goku doesnt exist in dir
+Green Dog doesnt exist in dir
+Gucci Shirt doesnt exist in dir
+GUESS Eco Gemma Crossbody Camera doesnt exist in dir
+Hot Wheels doesnt exist in dir
+Idk doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+Klimts Kiss doesnt exist in dir
+Lazy cat doesnt exist in dir
+Leaf doesnt exist in dir
+Let me 💤 doesnt exist in dir
+Lets Fly Up doesnt exist in dir
+Lightning doesnt exist in dir
+Lightning Thunder doesnt exist in dir
+LooneyTunes Mismatch doesnt exist in dir
+Maroon Red doesnt exist in dir
+Movie Time doesnt exist in dir
+Nightmare before Christmas doesnt exist in dir
+Nike Baby Pink doesnt exist in dir
+Nike Bright Yellow doesnt exist in dir
+Nike No Show doesnt exist in dir
+Nike Socks doesnt exist in dir
+Nike Tie-Dye Orange doesnt exist in dir
+Nostalgic Funk Art doesnt exist in dir
+Nude Art doesnt exist in dir
+OCEAN BLUE doesnt exist in dir
+OFF-WHITE INSPIRED doesnt exist in dir
+Open your eyes doesnt exist in dir
+Oreo doesnt exist in dir
+Pineapple Oasis doesnt exist in dir
+Pizzzaaa doesnt exist in dir
+Polka doesnt exist in dir
+Powerpuff girls doesnt exist in dir
+Prada Tshirt doesnt exist in dir
+Purple Lemon doesnt exist in dir
+PurplexYellow Checkered doesnt exist in dir
+Ralph Lauren doesnt exist in dir
+Embroidered beauty doesnt exist in dir
+David Portrait doesnt exist in dir
+Lets Fly Up doesnt exist in dir
+Donald doesnt exist in dir
+Eyes On You doesnt exist in dir
+Dont Follow Me ( I am lost too) doesnt exist in dir
+The Guitarist doesnt exist in dir
+Spongebob doesnt exist in dir
+Suit up doesnt exist in dir
+Idk doesnt exist in dir
+Klimts Kiss doesnt exist in dir
+Lightning Thunder doesnt exist in dir
+Pineapple Oasis doesnt exist in dir
+Seeking Paradise doesnt exist in dir
+Essentials White doesnt exist in dir
+Essentials Grey doesnt exist in dir
+Essentials Brown doesnt exist in dir
+Essentials Black doesnt exist in dir
+Sakura Pink Nike Tie-Dye doesnt exist in dir
+Wtf doesnt exist in dir
+Solid Beige doesnt exist in dir
+Polka doesnt exist in dir
+Ralph Lauren doesnt exist in dir
+Let me 💤 doesnt exist in dir
+Solid Black doesnt exist in dir
+Maroon Red doesnt exist in dir
+OCEAN BLUE doesnt exist in dir
+Thrasher doesnt exist in dir
+Simpsons doesnt exist in dir
+Nike Baby Pink doesnt exist in dir
+ZORKÈT SOLID WHITE doesnt exist in dir
+SOLID BLACK doesnt exist in dir
+SOLID BLACK ANKLE doesnt exist in dir
+Fendi Tshirt doesnt exist in dir
+Fendi Tshirt doesnt exist in dir
+Prada Tshirt doesnt exist in dir
+Fendi Tshirt doesnt exist in dir
+Gucci Shirt doesnt exist in dir
+Spongebob doesnt exist in dir
+Nike Tie-Dye Orange doesnt exist in dir
+Starry Night : VAN GOGH doesnt exist in dir
+PurplexYellow Checkered doesnt exist in dir
+Purple Lemon doesnt exist in dir
+Donut doesnt exist in dir
+Spicy doesnt exist in dir
+Nike Socks doesnt exist in dir
+Sand doesnt exist in dir
+Movie Time doesnt exist in dir
+Leaf doesnt exist in dir
+Suneo : Doraemon doesnt exist in dir
+Powerpuff girls doesnt exist in dir
+Zebra doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+BONNE MAISON ART doesnt exist in dir
+Starry Night : Oil Paint doesnt exist in dir
+Woollen Brown Cozy doesnt exist in dir
+Woollen Beige Cozy doesnt exist in dir
+Woollen Khaki Cozy doesnt exist in dir
+
+
+
+Added 268 colors to colors.json
+
+
+running indexProductDB process
+Read 308 products from productsDB
+Created 308 documents
+Persisted indexes to productIndexes
+
+
+
+running indexProductDB process
+Read 308 products from productsDB
+Created 2 documents
+Persisted indexes to productIndexes
+
+
+
+running indexProductDB process
+Read 308 products from productsDB
+Created 2 documents
+Persisted indexes to productIndexes
+
+
+
+running indexProductDB process
+Read 308 products from productsDB
+Created 31 documents
+Persisted indexes to productIndexes
+
+
+
+running indexProductDB process
+Read 308 products from productsDB
+Created 62 documents
+Persisted indexes to productIndexes
+
+
+

@@ -1,0 +1,46 @@
+running indexProductDB process
+Read 308 products from productsDB
+Created 154 documents
+Persisted indexes to productIndexes
+
+
+
+running embedProducts Process
+Read 308 products from productsDB
+Saved embeddings of size (308, 384) to data/embeddings.npy
+
+
+
+running updateProducts process
+Retrived products: 475
+Found 308 active products
+Wrote products to productsDB
+
+
+
+running embedProducts Process
+Read 308 products from productsDB
+Saved embeddings of size (308, 384) to data/embeddings.npy
+
+
+
+Running updateProductColors process
+Retrieved 475 products
+read 270 existing product names
+BONNE MAISON ART doesnt exist in dir
+Corona? doesnt exist in dir
+failed to download image Corona?
+DEMON SLAYER-NEZUKO doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+Spongebob doesnt exist in dir
+Simpsons doesnt exist in dir
+SOLID BLACK doesnt exist in dir
+Spongebob doesnt exist in dir
+Starry Night : VAN GOGH doesnt exist in dir
+Suneo : Doraemon doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+BONNE MAISON ART doesnt exist in dir
+Starry Night : Oil Paint doesnt exist in dir
+
+
+

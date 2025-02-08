@@ -1,0 +1,13 @@
+running updateProducts process
+Retrived products: 478
+Found 311 active products
+Wrote products to productsDB
+
+
+
+running embedProducts Process
+Read 311 products from productsDB
+Saved embeddings of size (311, 384) to data/embeddings.npy
+
+
+
