@@ -221,10 +221,10 @@ class SearchScheduler:
         print("getting colors from new images")
 
     def runBatchProcess(self):
-        # self.updateProducts()
+        self.updateProducts()
         self.embedProducts()
-        # self.updateProductImages()
-        # self.updateProductColors()
+        self.updateProductImages()
+        self.updateProductColors()
 
 sched = SearchScheduler()
 sched.runBatchProcess()
