@@ -9,7 +9,7 @@ app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "http://127.0.0.1:5500"}})
 #CORS(app, resources={
  #   r"/*": {"origins": ["http://127.0.0.1:5500", "http://127.0.0.1:9292","https://atlanore.com/","https://atlanoresearch.raggleai.com"]}
-#})
+#})Owais
 CORS(app)
 
 with open("data/product_details.json") as file:
