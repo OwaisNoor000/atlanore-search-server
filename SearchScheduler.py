@@ -221,10 +221,10 @@ class SearchScheduler:
         print("getting colors from new images")
 
     def runBatchProcess(self):
-        self.updateProducts()
-        self.embedProducts()
-        self.updateProductImages()
-        self.updateProductColors()
+        self.updateProducts() # overwrites products.txt
+        self.embedProducts() # regenerates indexes of products.txt
+        self.updateProductImages() # updates product images (doesnt overwrite)
+        self.updateProductColors() # updates color.json
 
 sched = SearchScheduler()
 sched.runBatchProcess()

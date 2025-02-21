@@ -1,0 +1,56 @@
+running updateProducts process
+Retrived products: 389
+Found 349 active products
+Wrote products to productsDB
+
+
+
+running embedProducts Process
+Read 349 products from productsDB
+Saved embeddings of size (349, 384) to data/embeddings.npy
+
+
+
+Running updateProductColors process
+Retrieved 389 products
+read 269 existing product names
+Biu Biu Mode doesnt exist in dir
+BONNE MAISON ART doesnt exist in dir
+Burnout doesnt exist in dir
+DEMON SLAYER-NEZUKO doesnt exist in dir
+F You Pay Me doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+Legacy Beard Socks doesnt exist in dir
+Not Interested Expression doesnt exist in dir
+Shark doesnt exist in dir
+Simpsons doesnt exist in dir
+Snap Crackle Pop doesnt exist in dir
+SOLID BLACK doesnt exist in dir
+SpongeBob Gary doesnt exist in dir
+Staffordshire Terrier Dog Sock doesnt exist in dir
+Starry Night : Oil Paint doesnt exist in dir
+Starry Night : VAN GOGH doesnt exist in dir
+Suneo : Doraemon doesnt exist in dir
+The Simpsons Krusty Burger doesnt exist in dir
+💀 doesnt exist in dir
+The Simpsons Krusty Burger doesnt exist in dir
+Biu Biu Mode doesnt exist in dir
+DEMON SLAYER-NEZUKO doesnt exist in dir
+Snap Crackle Pop doesnt exist in dir
+Burnout doesnt exist in dir
+Not Interested Expression doesnt exist in dir
+Simpsons doesnt exist in dir
+SOLID BLACK doesnt exist in dir
+Starry Night : VAN GOGH doesnt exist in dir
+F You Pay Me doesnt exist in dir
+Suneo : Doraemon doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+BONNE MAISON ART doesnt exist in dir
+Starry Night : Oil Paint doesnt exist in dir
+Legacy Beard Socks doesnt exist in dir
+
+
+
+Added 279 colors to colors.json
+
+
