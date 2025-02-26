@@ -97,5 +97,16 @@ def get_color_llm_response():
     return jsonify(data)
 
 
+@app.route("/return-products-list")
+def fetch_products_list():
+    arg = request.args.get("products")
+    products_list = arg.split(",")
+
+    details = [product_details[key] for key in products_list if key in product_details]
+    data = {
+        "imgList":details
+    }
+    return jsonify(data)
+
 if __name__ == '__main__':
     app.run()
