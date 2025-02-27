@@ -54,8 +54,11 @@ def get_feeling_llm_response():
     products = [product.replace("\n","") for product in products]
 
     product_embeddings = np.load("data/embeddings.npy")
-    keyword_embedding = model.encode([query])  # Single keyword query
-    similarity_scores = cosine_similarity(keyword_embedding, product_embeddings)[0]  # Extract first row
+    words = query.split()
+    product_embeddings = np.load("data/embeddings.npy")
+    keyword_embedding = model.encode(words)  # Single keyword query
+    average_embeddings = np.mean(keyword_embedding,axis=0).reshape(1,-1)
+    similarity_scores = cosine_similarity(average_embeddings, product_embeddings)[0]  # Extract first row
     top_n = 20
     top_indices = np.argsort(similarity_scores)[::-1][:top_n]  # Sort in descending order
     result = []
