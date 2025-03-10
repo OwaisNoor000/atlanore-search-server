@@ -1,3 +1,232 @@
 Added 278 colors to colors.json
 
 
+running updateProducts process
+Retrived products: 210
+Found 171 active products
+Wrote products to productsDB
+
+
+
+running embedProducts Process
+Read 171 products from productsDB
+Saved embeddings of size (171, 384) to data/embeddings.npy
+
+
+
+Running updateProductColors process
+Retrieved 210 products
+read 0 existing product names
+90s Theme doesnt exist in dir
+APE doesnt exist in dir
+AREA 51 doesnt exist in dir
+ASSC doesnt exist in dir
+ASSC doesnt exist in dir
+AssHole doesnt exist in dir
+Avatar doesnt exist in dir
+Avocado doesnt exist in dir
+Avocado 🥑 doesnt exist in dir
+Back to the 90’s doesnt exist in dir
+BAPE doesnt exist in dir
+BAPE doesnt exist in dir
+Batman and Robin doesnt exist in dir
+Beatles Pepperland doesnt exist in dir
+Beige Fuzzy doesnt exist in dir
+Birth of Venus doesnt exist in dir
+Bitch Please i am cat doesnt exist in dir
+Biu Biu Mode doesnt exist in dir
+Black Vintage Lining doesnt exist in dir
+Black X Yellow Flame doesnt exist in dir
+Bloody Hands doesnt exist in dir
+Blue Fuzzy doesnt exist in dir
+Blue x Green Nike doesnt exist in dir
+Bonne Maison Art doesnt exist in dir
+Bonne Maison Art doesnt exist in dir
+BONNE MAISON ART doesnt exist in dir
+Bonne Maison Art doesnt exist in dir
+Bonne Maison Art doesnt exist in dir
+Bonne Maison Faces Art doesnt exist in dir
+Bonne Maison Nude Art doesnt exist in dir
+Bonne Maison Nude Art doesnt exist in dir
+Bonne Maison Nude Art doesnt exist in dir
+Bonne Maison Smoke Art doesnt exist in dir
+Bowling doesnt exist in dir
+Brown David Statue doesnt exist in dir
+Brown Fuzzy doesnt exist in dir
+Budapest doesnt exist in dir
+Bugs Bunny doesnt exist in dir
+Bugs Bunny doesnt exist in dir
+Bugs Bunny doesnt exist in dir
+Burnout doesnt exist in dir
+Buzzed out Alien doesnt exist in dir
+Cactus Jack doesnt exist in dir
+Cactus Jack doesnt exist in dir
+Cactus Jack doesnt exist in dir
+Calabasas Yeezy doesnt exist in dir
+Cap’n Crunch doesnt exist in dir
+Chao doesnt exist in dir
+Checkered doesnt exist in dir
+Christmas doesnt exist in dir
+Christmas doesnt exist in dir
+Crocodile doesnt exist in dir
+Crocodile doesnt exist in dir
+Crush doesnt exist in dir
+Cupid doesnt exist in dir
+Dark Grey Fuzzy doesnt exist in dir
+David statue doesnt exist in dir
+Dbz doesnt exist in dir
+DBZ Master Roshi doesnt exist in dir
+Death by Decaf doesnt exist in dir
+Deep Blue Vintage Lining doesnt exist in dir
+Demon Slayer doesnt exist in dir
+Demon Slayer-Nezuko doesnt exist in dir
+DEMON SLAYER-NEZUKO doesnt exist in dir
+Eagle doesnt exist in dir
+EGG doesnt exist in dir
+Egypt doesnt exist in dir
+ELIZA&DONNIE MISMATCH PAIR doesnt exist in dir
+Ernie The Giant Chicken doesnt exist in dir
+ESSENTIALS doesnt exist in dir
+ESSENTIALS doesnt exist in dir
+ESSENTIALS doesnt exist in dir
+Expression doesnt exist in dir
+F you paye me doesnt exist in dir
+Flame doesnt exist in dir
+Flame doesnt exist in dir
+Flame doesnt exist in dir
+Flame doesnt exist in dir
+Formula 1 doesnt exist in dir
+Freedom doesnt exist in dir
+Frosted Blue Nike Tie-Dye doesnt exist in dir
+Fuck OFF doesnt exist in dir
+Go Bananananaa doesnt exist in dir
+GOLF WANG doesnt exist in dir
+Green Dog doesnt exist in dir
+Grey Fuzzy doesnt exist in dir
+Halloween doesnt exist in dir
+Harry Potter (Dobby Is Free) doesnt exist in dir
+Harry Potter Hogwarts Crest doesnt exist in dir
+Have Nice Day doesnt exist in dir
+Heart Mismatch doesnt exist in dir
+i am cat doesnt exist in dir
+I am Old Now doesnt exist in dir
+I cry doesnt exist in dir
+I dont give a fuck doesnt exist in dir
+I love my asshole kids doesnt exist in dir
+I Shy doesnt exist in dir
+itachi doesnt exist in dir
+I’ll tell you what doesnt exist in dir
+Johannes Vermeer : Girl with a pearl earing doesnt exist in dir
+Khaki Checkered doesnt exist in dir
+Korean BBQ doesnt exist in dir
+Legacy Beard Socks doesnt exist in dir
+Light Brown Fuzzy doesnt exist in dir
+Looney Tunes doesnt exist in dir
+Luncheon on the Grass doesnt exist in dir
+Marc Chagall - i and the village doesnt exist in dir
+Michael Jackson doesnt exist in dir
+Middle Finger doesnt exist in dir
+Minions doesnt exist in dir
+Minions doesnt exist in dir
+Mona Lisa doesnt exist in dir
+Murphy The Surfie doesnt exist in dir
+Narcos Theme doesnt exist in dir
+Naruto doesnt exist in dir
+Nefertiti Queen doesnt exist in dir
+Nike Black doesnt exist in dir
+Nike Bright Yellow doesnt exist in dir
+Nike Grey doesnt exist in dir
+Nike Light Green doesnt exist in dir
+Nike Lilac Purple doesnt exist in dir
+Nike Pink doesnt exist in dir
+Nike Pumpkin Orange doesnt exist in dir
+Nike Red Pink doesnt exist in dir
+Nike Tie-Dye B&W doesnt exist in dir
+NIKE TIE-DYE BLUE doesnt exist in dir
+Nike Tie-Dye Lavender doesnt exist in dir
+Nike Tie-Dye Orange doesnt exist in dir
+Nike Tie-Dye Yellow doesnt exist in dir
+Nike White doesnt exist in dir
+Ninja Turtles doesnt exist in dir
+Not Interested Expression doesnt exist in dir
+Nude Portrait doesnt exist in dir
+Oak Brown Nike Tie-Dye doesnt exist in dir
+One Piece doesnt exist in dir
+Orange doesnt exist in dir
+OSCAR THE GROUCH doesnt exist in dir
+Oyster doesnt exist in dir
+Palm Tree doesnt exist in dir
+PINK PANTHER doesnt exist in dir
+Pissed Alien doesnt exist in dir
+Plankton SpongeBob doesnt exist in dir
+Poached Egg doesnt exist in dir
+Pointing Fingers doesnt exist in dir
+Popeye doesnt exist in dir
+Popeye doesnt exist in dir
+Powerpuff girls doesnt exist in dir
+Pug doesnt exist in dir
+Purple Checkered doesnt exist in dir
+Ren & Stimpy doesnt exist in dir
+Ren & Stimpy doesnt exist in dir
+Rick & Morty doesnt exist in dir
+Rick & Morty doesnt exist in dir
+RICK&MORTY doesnt exist in dir
+RICK&MORTY doesnt exist in dir
+RICK&MORTY doesnt exist in dir
+Rugrats Tommy and Chuckie doesnt exist in dir
+Sakura Pink Nike Tie-Dye doesnt exist in dir
+SASUKE doesnt exist in dir
+Scooby Doo doesnt exist in dir
+Shark doesnt exist in dir
+Shinchan doesnt exist in dir
+SIMPSONS doesnt exist in dir
+Simpsons doesnt exist in dir
+Simpsons (Limited Edition) doesnt exist in dir
+Skeleton doesnt exist in dir
+Snap Crackle Pop doesnt exist in dir
+Snoopy doesnt exist in dir
+SOLID BLACK doesnt exist in dir
+SOLID BLACK ANKLE doesnt exist in dir
+SpongeBob doesnt exist in dir
+SpongeBob Gary doesnt exist in dir
+Spooky Season doesnt exist in dir
+Staffordshire Terrier Dog Sock doesnt exist in dir
+Starry Night : Oil Paint doesnt exist in dir
+Starry Night : VAN GOGH doesnt exist in dir
+Stone Age Classic Art doesnt exist in dir
+STREET WEAR doesnt exist in dir
+Suneo : Doraemon doesnt exist in dir
+Taco doesnt exist in dir
+The Great Wave off Kanagawa doesnt exist in dir
+The Rolling Stones doesnt exist in dir
+The Simpsons Krusty Burger doesnt exist in dir
+The Wild Thornberrys doesnt exist in dir
+TOM & JERRY MISMATCH PAIR doesnt exist in dir
+Tom and jerry doesnt exist in dir
+Tom and jerry doesnt exist in dir
+Tom and jerry doesnt exist in dir
+Travis Scott Cactus Jack doesnt exist in dir
+Travis Scott Cactus Jack doesnt exist in dir
+Travis Scott Cactus Jack doesnt exist in dir
+UNDERTAKER doesnt exist in dir
+Van Gogh doesnt exist in dir
+Van Gogh doesnt exist in dir
+Van Gogh doesnt exist in dir
+Van Gogh doesnt exist in dir
+Van Gogh Leon doesnt exist in dir
+Vans doesnt exist in dir
+Vintage Lining doesnt exist in dir
+Wheat Field With Cypresses doesnt exist in dir
+White X Red Flame doesnt exist in dir
+Wine Red Fuzzy doesnt exist in dir
+Woollen Beige Cozy doesnt exist in dir
+Woollen Brown Cozy doesnt exist in dir
+Woollen Khaki Cozy doesnt exist in dir
+Y’all Dizzy doesnt exist in dir
+Zzz doesnt exist in dir
+💀 doesnt exist in dir
+🕶️ doesnt exist in dir
+Eagle doesnt exist in dir
+
+
+

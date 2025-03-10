@@ -196,7 +196,11 @@ class SearchScheduler:
             if product["title"] not in images_in_dir:
                 logs.append(f"{product["title"]} doesnt exist in dir")
                 print(f"checking product {product["title"]}")
-                url = product["image"]["src"]
+                if len(product["images"])>1: # get the image likely to be more transparent (if exists)
+                    url = product["images"][1]["src"]
+                else:
+                    url = product["images"][0]["src"]
+                
                 response = requests.get(url)
                 if response.status_code == 200:
                     # Open a file in write-binary mode to save the image
