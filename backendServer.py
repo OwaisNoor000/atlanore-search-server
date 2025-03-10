@@ -4,6 +4,7 @@ import os,json
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+from getColors import classify_color
 
 app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "http://127.0.0.1:5500"}})

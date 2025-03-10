@@ -1,981 +1,1583 @@
 [
     {
+        "name": "Akatsuki.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
         "name": "Albert Einstein.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "APE.jpg",
         "colors": [
-            "orange",
-            "white"
+            "red",
+            "blue"
         ]
     },
     {
         "name": "AREA 51.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "ASSC.jpg",
         "colors": [
-            "white",
+            "yellow",
             "yellow"
         ]
     },
     {
         "name": "AssHole.jpg",
         "colors": [
-            "blue",
-            "white"
+            "red",
+            "red"
+        ]
+    },
+    {
+        "name": "Astroworld.jpg",
+        "colors": [
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Avatar.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Avocado 🥑.jpg",
+        "colors": [
+            "yellow",
+            "yellow"
         ]
     },
     {
         "name": "Avocado.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Avocado2.jpg",
         "colors": [
-            "white",
+            "yellow",
             "yellow"
+        ]
+    },
+    {
+        "name": "Baby Yoda.jpg",
+        "colors": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Back to the 90’s.jpg",
+        "colors": [
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "BAPE.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "blue"
+        ]
+    },
+    {
+        "name": "baron cat xs.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "Baron Cat.jpg",
+        "colors": [
+            "green",
+            "green"
+        ]
+    },
+    {
+        "name": "Bart Simpson.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Batman and Robin.jpg",
+        "colors": [
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Be like Pandaa.jpg",
         "colors": [
-            "white",
-            "black"
+            "green",
+            "yellow"
         ]
     },
     {
         "name": "Beatles Pepperland.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Beige Cozy.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Beige Fuzzy.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Birth of Venus.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Bitch Please i am cat.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "red"
+        ]
+    },
+    {
+        "name": "BITCH.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Biu Biu Mode.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Black Flame.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Black Sushi.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Black Vintage Lining.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Black X Yellow Flame.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Bloody Hands.jpg",
         "colors": [
-            "white",
+            "yellow",
             "red"
         ]
     },
     {
         "name": "Blue Fuzzy.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Blue x Green Nike.jpg",
         "colors": [
-            "cyan",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Bonne Maison Art.jpg",
         "colors": [
-            "black",
-            "white"
+            "green",
+            "green"
         ]
     },
     {
         "name": "Bonne Maison Faces Art.jpg",
         "colors": [
-            "white",
-            "white"
+            "blue",
+            "red"
         ]
     },
     {
         "name": "Bonne Maison Nude Art.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "yellow"
         ]
     },
     {
         "name": "Bowling.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Brown David Statue.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "green"
         ]
     },
     {
         "name": "Brown Fuzzy.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "name": "Brownie Lucia.jpg",
+        "colors": [
+            "red",
+            "red"
         ]
     },
     {
         "name": "Budapest.jpg",
         "colors": [
-            "orange",
-            "white"
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Bugs Bunny.jpg",
         "colors": [
-            "white",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "Burger &Coca-Cola.jpg",
+        "colors": [
+            "blue",
             "yellow"
+        ]
+    },
+    {
+        "name": "BURGER x HOTDOG.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Burnout.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Buzzed out Alien.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Cactus Jack.jpg",
         "colors": [
-            "yellow",
-            "black"
+            "green",
+            "red"
         ]
     },
     {
         "name": "Calabasas Yeezy.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Cap’n Crunch.jpg",
+        "colors": [
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Chao.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Checkered.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "blue"
+        ]
+    },
+    {
+        "name": "Checkmate.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "Cherry.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Chicken & Beer.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Christmas.jpg",
         "colors": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "name": "Chucky.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Colorado.jpg",
+        "colors": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "Cookies.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "Coral.jpg",
+        "colors": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "name": "Corpse Bride.jpg",
+        "colors": [
             "red",
-            "white"
+            "blue"
         ]
     },
     {
         "name": "Couple Hand Holding Socks.jpg",
         "colors": [
-            "black",
-            "white"
+            "green",
+            "red"
         ]
     },
     {
         "name": "Crocodile.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Crush.jpg",
         "colors": [
             "yellow",
-            "white"
+            "blue"
         ]
     },
     {
         "name": "Cupid.jpg",
         "colors": [
-            "black",
-            "white"
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "DAMAHOOU.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Dancing Lemon.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Dark Grey Fuzzy.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "David Portrait.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "David statue.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Dbz.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Death by Decaf.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Deep Blue Vintage Lining.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Demon Slayer-Nezuko.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Demon Slayer.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Dizzy.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "green"
+        ]
+    },
+    {
+        "name": "Dolphin.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Donald.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Dont Follow Me ( I am lost too).jpg",
+        "colors": [
+            "blue",
+            "blue"
+        ]
+    },
+    {
+        "name": "Donut.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Dracarys “Game of Thrones”.jpg",
+        "colors": [
+            "red",
+            "green"
         ]
     },
     {
         "name": "EGG.jpg",
         "colors": [
-            "white",
+            "yellow",
             "yellow"
         ]
     },
     {
         "name": "Egypt.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "ELIZA&DONNIE MISMATCH PAIR.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "Embroidered beauty.jpg",
+        "colors": [
+            "green",
+            "yellow"
         ]
     },
     {
         "name": "Ernie The Giant Chicken.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Essentials Black.jpg",
+        "colors": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "name": "Essentials Brown.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Essentials Grey.jpg",
+        "colors": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "name": "Essentials White.jpg",
+        "colors": [
+            "green",
+            "red"
         ]
     },
     {
         "name": "ESSENTIALS.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Everyones a Gangsta.jpg",
         "colors": [
-            "cyan",
-            "black"
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "Expression.jpg",
         "colors": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "Eyes On You.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "F You Pay Me.jpg",
+        "colors": [
             "yellow",
-            "white"
+            "red"
+        ]
+    },
+    {
+        "name": "Fendi Tshirt.jpg",
+        "colors": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Flame copy.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Flame.jpg",
         "colors": [
-            "cyan",
-            "white"
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "Formula 1.jpg",
         "colors": [
-            "orange",
-            "white"
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Freedom.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Frosted Blue Nike Tie-Dye.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "Fuck OFF.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Giraffe In Paris.jpg",
         "colors": [
-            "white",
-            "yellow"
+            "blue",
+            "green"
         ]
     },
     {
         "name": "GO AWAY.jpg",
         "colors": [
-            "white",
-            "black"
+            "red",
+            "red"
         ]
     },
     {
         "name": "Go Bananananaa.jpg",
         "colors": [
-            "white",
-            "white"
+            "red",
+            "red"
+        ]
+    },
+    {
+        "name": "Goku.jpg",
+        "colors": [
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "GOLF.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Green Dog.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Grey Fuzzy.jpg",
         "colors": [
-            "white",
-            "orange"
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Gucci Shirt.jpg",
+        "colors": [
+            "green",
+            "red"
         ]
     },
     {
         "name": "Gucci.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "GUESS Eco Gemma Crossbody Camera.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Halloween.jpg",
         "colors": [
-            "black",
-            "orange"
+            "red",
+            "green"
         ]
     },
     {
         "name": "Harry Potter (Dobby Is Free).jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Harry Potter Hogwarts Crest.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "Have Nice Day.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Heart Mismatch.jpg",
         "colors": [
             "blue",
-            "white"
+            "yellow"
         ]
     },
     {
         "name": "HillWood Boys.jpg",
         "colors": [
-            "orange",
-            "white"
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Hot Wheels.jpg",
+        "colors": [
+            "red",
+            "blue"
         ]
     },
     {
         "name": "I am Old Now.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "I cry.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "red"
         ]
     },
     {
         "name": "I dont give a fuck.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "I love my asshole kids.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "green"
         ]
     },
     {
         "name": "I Shy.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Idk.jpg",
+        "colors": [
+            "green",
+            "blue"
         ]
     },
     {
         "name": "IF YOU CAN READ THIS.jpg",
         "colors": [
-            "orange",
-            "white"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Itachi.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Khaki Checkered.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "yellow"
         ]
     },
     {
         "name": "Khaki Cozy.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "King Of The Hill 1977.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Klimts Kiss.jpg",
+        "colors": [
+            "green",
+            "green"
         ]
     },
     {
         "name": "Korean BBQ.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "yellow"
         ]
     },
     {
         "name": "Krusty Burger.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "Lazy cat.jpg",
+        "colors": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Leaf.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Legacy Beard Socks.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Let me 💤.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Lets Fly Up.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Light Brown Fuzzy.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Lightning Thunder.jpg",
+        "colors": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "name": "Lightning.jpg",
+        "colors": [
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Looney Tunes.jpg",
         "colors": [
-            "orange",
-            "white"
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "LooneyTunes Mismatch.jpg",
+        "colors": [
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "Luncheon on the Grass.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Man’s best friend.jpg",
+        "colors": [
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "Marc Chagall - i and the village.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Maroon Red.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Michael Jackson.jpg",
         "colors": [
-            "white",
-            "black"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Middle Finger.jpg",
         "colors": [
-            "white",
-            "red"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Minions.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Mismatch Drink&Fries.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "MOE’S.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Mona Lisa.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Movie Time.jpg",
+        "colors": [
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "Mystery Sock Box.jpg",
         "colors": [
-            "orange",
-            "white"
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Narcos Theme.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Naruto.jpg",
         "colors": [
-            "orange",
-            "white"
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Nefertiti Queen.jpg",
         "colors": [
-            "white",
-            "blue"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Nightmare before Christmas.jpg",
+        "colors": [
+            "red",
+            "red"
+        ]
+    },
+    {
+        "name": "Nike Baby Pink.jpg",
+        "colors": [
+            "red",
+            "red"
         ]
     },
     {
         "name": "Nike Black.jpg",
         "colors": [
-            "black",
-            "white"
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Nike Bright Yellow.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Nike Grey.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Nike Light Green.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Nike Lilac Purple.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Nike No Show.jpg",
+        "colors": [
+            "red",
+            "green"
         ]
     },
     {
         "name": "Nike Pink.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Nike Pumpkin Orange.jpg",
         "colors": [
-            "white",
-            "blue"
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "Nike Red Pink.jpg",
         "colors": [
-            "white",
+            "yellow",
             "red"
+        ]
+    },
+    {
+        "name": "Nike Socks.jpg",
+        "colors": [
+            "red",
+            "green"
         ]
     },
     {
         "name": "Nike Tie-Dye B&W.jpg",
         "colors": [
-            "orange",
-            "white"
+            "red",
+            "red"
         ]
     },
     {
         "name": "NIKE TIE-DYE BLUE.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "blue"
         ]
     },
     {
         "name": "Nike Tie-Dye Lavender.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Nike Tie-Dye Orange.jpg",
+        "colors": [
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Nike Tie-Dye Yellow.jpg",
         "colors": [
-            "orange",
-            "white"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Nike White.jpg",
         "colors": [
-            "white",
-            "yellow"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Nike.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Ninja Turtles.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "blue"
         ]
     },
     {
         "name": "NO Drama Please.jpg",
         "colors": [
-            "cyan",
-            "white"
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "No You.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Nostalgic Art Pair.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "Nostalgic Funk Art.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Not Interested Expression.jpg",
+        "colors": [
+            "yellow",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Nude Art.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Nude Portrait.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "Oak Brown Nike Tie-Dye.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "OCEAN BLUE.jpg",
+        "colors": [
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "Off White Inspired.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "blue"
+        ]
+    },
+    {
+        "name": "OFF-WHITE INSPIRED.jpg",
+        "colors": [
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Ok Expression.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "yellow"
         ]
     },
     {
         "name": "One Piece.jpg",
         "colors": [
-            "orange",
-            "white"
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Open your eyes.jpg",
+        "colors": [
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Orange Cozy.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "Orange.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Oreo.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "OSCAR THE GROUCH.jpg",
         "colors": [
-            "yellow",
-            "white"
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Oyster.jpg",
         "colors": [
-            "orange",
-            "white"
+            "green",
+            "blue"
         ]
     },
     {
         "name": "Palm Tree.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Pineapple Oasis.jpg",
+        "colors": [
+            "red",
+            "red"
         ]
     },
     {
         "name": "PINK PANTHER.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "red"
         ]
     },
     {
         "name": "Pissed Alien.jpg",
         "colors": [
-            "white",
-            "black"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Pizzzaaa.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Plankton SpongeBob.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Poached Egg.jpg",
         "colors": [
-            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Polka.jpg",
+        "colors": [
+            "green",
             "yellow"
         ]
     },
     {
         "name": "Popeye.jpg",
         "colors": [
-            "black",
-            "white"
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Powerpuff girls.jpg",
+        "colors": [
+            "red",
+            "red"
+        ]
+    },
+    {
+        "name": "Prada Tshirt.jpg",
+        "colors": [
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Pug.jpg",
         "colors": [
-            "white",
-            "orange"
+            "green",
+            "yellow"
         ]
     },
     {
         "name": "Puppy.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Purple Checkered.jpg",
         "colors": [
-            "white",
-            "orange"
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Purple Lemon.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "PurplexYellow Checkered.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Ralph Lauren.jpg",
+        "colors": [
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Ren & Stimpy.jpg",
         "colors": [
-            "cyan",
-            "white"
+            "blue",
+            "yellow"
         ]
     },
     {
         "name": "Rick & Morty.jpg",
         "colors": [
             "blue",
-            "white"
+            "yellow"
         ]
     },
     {
         "name": "Rick Griffin.jpg",
         "colors": [
-            "orange",
-            "white"
+            "green",
+            "blue"
         ]
     },
     {
         "name": "RICK&MORTY.jpg",
         "colors": [
-            "white",
-            "cyan"
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Sakura Pink Nike Tie-Dye.jpg",
+        "colors": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "name": "Sand.jpg",
+        "colors": [
+            "green",
+            "yellow"
         ]
     },
     {
         "name": "SASUKE.jpg",
         "colors": [
-            "red",
-            "white"
+            "blue",
+            "red"
         ]
     },
     {
         "name": "Scooby Doo.jpg",
         "colors": [
-            "white",
-            "yellow"
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "Seeking Paradise.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Shark.jpg",
+        "colors": [
+            "blue",
+            "green"
         ]
     },
     {
         "name": "Shinchan.jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Simpsons (Limited Edition).jpg",
         "colors": [
-            "white",
-            "orange"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "SIMPSONS.jpg",
         "colors": [
-            "white",
+            "yellow",
             "blue"
         ]
     },
@@ -983,973 +1585,364 @@
         "name": "Skeleton.jpg",
         "colors": [
             "blue",
-            "white"
+            "yellow"
         ]
     },
     {
         "name": "Skeletor.jpg",
         "colors": [
-            "blue",
-            "white"
+            "yellow",
+            "red"
         ]
     },
     {
         "name": "Sketch Phanton.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "yellow"
         ]
     },
     {
         "name": "skull.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "green"
         ]
     },
     {
         "name": "SLUT.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Snap Crackle Pop.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Snap!.jpg",
         "colors": [
-            "cyan",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Snoopy.jpg",
         "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "SpongeBob Underwater.jpg",
-        "colors": [
-            "yellow",
-            "white"
-        ]
-    },
-    {
-        "name": "SpongeBob.jpg",
-        "colors": [
-            "white",
-            "cyan"
-        ]
-    },
-    {
-        "name": "Spooky Season.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Stone Age Classic Art.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Stone Grey.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "STREET WEAR.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Supreme.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Taco.jpg",
-        "colors": [
-            "cyan",
-            "white"
-        ]
-    },
-    {
-        "name": "Texas Vibes.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "The Great Wave off Kanagawa.jpg",
-        "colors": [
-            "white",
-            "blue"
-        ]
-    },
-    {
-        "name": "The Rolling Stones.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "The Scream.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "The Wild Thornberrys.jpg",
-        "colors": [
-            "white",
-            "green"
-        ]
-    },
-    {
-        "name": "TOM & JERRY MISMATCH PAIR.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Tom & Jerry.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Tom and jerry.jpg",
-        "colors": [
-            "cyan",
-            "white"
-        ]
-    },
-    {
-        "name": "Tommy and Chuckie.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Travis Scott Cactus Jack.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "UNDERTAKER.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Van Gogh Leon.jpg",
-        "colors": [
-            "white",
-            "blue"
-        ]
-    },
-    {
-        "name": "Van Gogh.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Vans.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Vintage Lining.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Wheat Field With Cypresses.jpg",
-        "colors": [
-            "white",
-            "cyan"
-        ]
-    },
-    {
-        "name": "White X Red Flame.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Wine Red Fuzzy.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Zzz.jpg",
-        "colors": [
-            "white",
-            "cyan"
-        ]
-    },
-    {
-        "name": "Akatsuki.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Astroworld.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Avocado 🥑.jpg",
-        "colors": [
-            "white",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Baby Yoda.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Back to the 90’s.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "baron cat xs.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Baron Cat.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Bart Simpson.jpg",
-        "colors": [
-            "yellow",
-            "white"
-        ]
-    },
-    {
-        "name": "Batman and Robin.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "BITCH.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Black Flame.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Black Sushi.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Brownie Lucia.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Cap’n Crunch.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Dracarys “Game of Thrones”.jpg",
-        "colors": [
-            "black",
-            "orange"
-        ]
-    },
-    {
-        "name": "Flame copy.jpg",
-        "colors": [
-            "cyan",
-            "white"
-        ]
-    },
-    {
-        "name": "Man’s best friend.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "MOE’S.jpg",
-        "colors": [
-            "cyan",
-            "white"
-        ]
-    },
-    {
-        "name": "{product}.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Burger &Coca-Cola.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "BURGER x HOTDOG.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Checkmate.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Cherry.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Chicken & Beer.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Chucky.jpg",
-        "colors": [
-            "orange",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Colorado.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Cookies.jpg",
-        "colors": [
-            "yellow",
-            "white"
-        ]
-    },
-    {
-        "name": "Coral.jpg",
-        "colors": [
             "blue",
-            "white"
-        ]
-    },
-    {
-        "name": "Corpse Bride.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Dancing Lemon.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "David Portrait.jpg",
-        "colors": [
-            "white",
             "blue"
-        ]
-    },
-    {
-        "name": "Dolphin.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Donald.jpg",
-        "colors": [
-            "white",
-            "green"
-        ]
-    },
-    {
-        "name": "Dont Follow Me ( I am lost too).jpg",
-        "colors": [
-            "white",
-            "cyan"
-        ]
-    },
-    {
-        "name": "Donut.jpg",
-        "colors": [
-            "white",
-            "green"
-        ]
-    },
-    {
-        "name": "Embroidered beauty.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Essentials Black.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Essentials Brown.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Essentials Grey.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Essentials White.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Eyes On You.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Fendi Tshirt.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Goku.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Green Dog.jpg",
-        "colors": [
-            "white",
-            "green"
-        ]
-    },
-    {
-        "name": "Gucci Shirt.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "GUESS Eco Gemma Crossbody Camera.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Hot Wheels.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Idk.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Klimts Kiss.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Lazy cat.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Leaf.jpg",
-        "colors": [
-            "white",
-            "green"
-        ]
-    },
-    {
-        "name": "Let me 💤.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Lets Fly Up.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Lightning Thunder.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Lightning.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "LooneyTunes Mismatch.jpg",
-        "colors": [
-            "cyan",
-            "white"
-        ]
-    },
-    {
-        "name": "Maroon Red.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Movie Time.jpg",
-        "colors": [
-            "cyan",
-            "white"
-        ]
-    },
-    {
-        "name": "Nightmare before Christmas.jpg",
-        "colors": [
-            "white",
-            "red"
-        ]
-    },
-    {
-        "name": "Nike Baby Pink.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Nike Bright Yellow.jpg",
-        "colors": [
-            "white",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Nike No Show.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Nike Socks.jpg",
-        "colors": [
-            "orange",
-            "orange"
-        ]
-    },
-    {
-        "name": "Nike Tie-Dye Orange.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Nostalgic Funk Art.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Nude Art.jpg",
-        "colors": [
-            "blue",
-            "white"
-        ]
-    },
-    {
-        "name": "OCEAN BLUE.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "OFF-WHITE INSPIRED.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Open your eyes.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Oreo.jpg",
-        "colors": [
-            "white",
-            "blue"
-        ]
-    },
-    {
-        "name": "Pineapple Oasis.jpg",
-        "colors": [
-            "red",
-            "white"
-        ]
-    },
-    {
-        "name": "Pizzzaaa.jpg",
-        "colors": [
-            "white",
-            "cyan"
-        ]
-    },
-    {
-        "name": "Polka.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Powerpuff girls.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Prada Tshirt.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Purple Lemon.jpg",
-        "colors": [
-            "yellow",
-            "white"
-        ]
-    },
-    {
-        "name": "PurplexYellow Checkered.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Ralph Lauren.jpg",
-        "colors": [
-            "white",
-            "blue"
-        ]
-    },
-    {
-        "name": "Sakura Pink Nike Tie-Dye.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Sand.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Seeking Paradise.jpg",
-        "colors": [
-            "white",
-            "orange"
         ]
     },
     {
         "name": "Solid Beige.jpg",
         "colors": [
             "blue",
-            "white"
+            "yellow"
         ]
     },
     {
         "name": "SOLID BLACK ANKLE.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "blue"
         ]
     },
     {
         "name": "Solid Black.jpg",
         "colors": [
-            "black",
-            "white"
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "Spicy.jpg",
         "colors": [
-            "white",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "SpongeBob Gary.jpg",
+        "colors": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "SpongeBob Underwater.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "SpongeBob.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Spooky Season.jpg",
+        "colors": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Staffordshire Terrier Dog Sock.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "Stone Age Classic Art.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Stone Grey.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ]
+    },
+    {
+        "name": "STREET WEAR.jpg",
+        "colors": [
+            "yellow",
             "red"
         ]
     },
     {
         "name": "Suit up.jpg",
         "colors": [
-            "orange",
-            "white"
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Supreme.jpg",
+        "colors": [
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "name": "Taco.jpg",
+        "colors": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "Texas Vibes.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "The Great Wave off Kanagawa.jpg",
+        "colors": [
+            "blue",
+            "blue"
         ]
     },
     {
         "name": "The Guitarist.jpg",
         "colors": [
-            "white",
-            "black"
+            "blue",
+            "yellow"
         ]
     },
     {
-        "name": "Thrasher.jpg",
+        "name": "The Rolling Stones.jpg",
         "colors": [
-            "black",
-            "white"
+            "blue",
+            "blue"
         ]
     },
     {
-        "name": "Woollen Beige Cozy.jpg",
+        "name": "The Scream.jpg",
         "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Woollen Brown Cozy.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "Woollen Khaki Cozy.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Wtf.jpg",
-        "colors": [
-            "black",
+            "yellow",
             "green"
-        ]
-    },
-    {
-        "name": "Zebra.jpg",
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "name": "ZORKÈT SOLID WHITE.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Biu Biu Mode.jpg",
-        "colors": [
-            "red",
-            "white"
-        ]
-    },
-    {
-        "name": "Burnout.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "F You Pay Me.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Legacy Beard Socks.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ]
-    },
-    {
-        "name": "Not Interested Expression.jpg",
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "name": "Shark.jpg",
-        "colors": [
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "name": "Snap Crackle Pop.jpg",
-        "colors": [
-            "white",
-            "cyan"
-        ]
-    },
-    {
-        "name": "SpongeBob Gary.jpg",
-        "colors": [
-            "white",
-            "white"
-        ]
-    },
-    {
-        "name": "Staffordshire Terrier Dog Sock.jpg",
-        "colors": [
-            "white",
-            "black"
         ]
     },
     {
         "name": "The Simpsons Krusty Burger.jpg",
         "colors": [
-            "black",
-            "white"
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "The Wild Thornberrys.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Thrasher.jpg",
+        "colors": [
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "name": "TOM & JERRY MISMATCH PAIR.jpg",
+        "colors": [
+            "red",
+            "blue"
+        ]
+    },
+    {
+        "name": "Tom & Jerry.jpg",
+        "colors": [
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "name": "Tom and jerry.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Tommy and Chuckie.jpg",
+        "colors": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Travis Scott Cactus Jack.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "UNDERTAKER.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Van Gogh Leon.jpg",
+        "colors": [
+            "blue",
+            "blue"
+        ]
+    },
+    {
+        "name": "Van Gogh.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Vans.jpg",
+        "colors": [
+            "red",
+            "green"
+        ]
+    },
+    {
+        "name": "Vintage Lining.jpg",
+        "colors": [
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "name": "Wheat Field With Cypresses.jpg",
+        "colors": [
+            "blue",
+            "blue"
+        ]
+    },
+    {
+        "name": "White X Red Flame.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Wine Red Fuzzy.jpg",
+        "colors": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Woollen Beige Cozy.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Woollen Brown Cozy.jpg",
+        "colors": [
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "name": "Woollen Khaki Cozy.jpg",
+        "colors": [
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Wtf.jpg",
+        "colors": [
+            "green",
+            "red"
+        ]
+    },
+    {
+        "name": "Zebra.jpg",
+        "colors": [
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "name": "ZORKÈT SOLID WHITE.jpg",
+        "colors": [
+            "yellow",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Zzz.jpg",
+        "colors": [
+            "yellow",
+            "blue"
         ]
     },
     {
         "name": "💀.jpg",
         "colors": [
-            "white",
-            "white"
+            "yellow",
+            "red"
         ]
     }
 ]

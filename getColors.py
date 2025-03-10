@@ -34,27 +34,53 @@ def get_dominant_color(image_name, n_colors=2):
     return color_names
 def classify_color(rgb):
     # Define RGB intervals for each color
-    color_intervals = {
-        "red": ((200, 0, 0), (255, 50, 50)),
-        "orange": ((200, 100, 0), (255, 165, 50)),
-        "yellow": ((200, 200, 0), (255, 255, 50)),
-        "green": ((0, 200, 0), (50, 255, 50)),
-        "cyan": ((0, 200, 200), (50, 255, 255)),
-        "blue": ((0, 0, 200), (50, 50, 255)),
-        "white": ((200, 200, 200), (255, 255, 255)),
-        "black": ((0, 0, 0), (50, 50, 50))
-    }
+    palette = [
+        #("black", (0, 0, 0), "Black"),
+        #("white", (255, 255, 255), "White"),
+        ("red", (255, 0, 0), "Red"),
+        ("green", (0, 255, 0), "Lime"),  # Lime → Green
+        ("blue", (0, 0, 255), "Blue"),
+        ("yellow", (255, 255, 0), "Yellow"),
+        ("blue", (0, 255, 255), "Cyan / Aqua"),  # Closer to Blue
+        ("red", (255, 0, 255), "Magenta / Fuchsia"),  # Closer to Red
+        #("white", (192, 192, 192), "Silver"),  # Closer to White
+        #("black", (128, 128, 128), "Gray"),  # Closer to Black
+        ("red", (128, 0, 0), "Maroon"),  # Closer to Red
+        ("green", (128, 128, 0), "Olive"),  # Closer to Yellow
+        ("green", (0, 128, 0), "Green"),
+        ("red", (128, 0, 128), "Purple"),  # Closer to Red
+        ("blue", (0, 128, 128), "Teal"),  # Closer to Blue
+        ("blue", (0, 0, 128), "Navy"),  # Closer to Blue
 
-    def is_within_interval(color, lower_bound, upper_bound):
-        return all(lower <= c <= upper for c, lower, upper in zip(color, lower_bound, upper_bound))
+        #("black", (0, 0, 0), "Black"),
+        #("white", (255, 255, 255), "White"),
+        ("red", (255, 0, 0), "Red"),
+        ("green", (0, 255, 0), "Lime"),  # Lime → Green
+        ("blue", (0, 0, 255), "Blue"),
+        ("yellow", (255, 255, 0), "Yellow"),
+        ("blue", (0, 255, 255), "Cyan / Aqua"),  # Closer to Blue
+        ("red", (255, 0, 255), "Magenta / Fuchsia"),  # Closer to Red
+        #("white", (192, 192, 192), "Silver"),  # Closer to White
+        #("black", (128, 128, 128), "Gray"),  # Closer to Black
+        ("red", (128, 0, 0), "Maroon"),  # Closer to Red
+        ("green", (128, 128, 0), "Olive"),  # Closer to Yellow
+        ("green", (0, 128, 0), "Green"),
+        ("red", (128, 0, 128), "Purple"),  # Closer to Red
+        ("blue", (0, 128, 128), "Teal"),  # Closer to Blue
+        ("blue", (0, 0, 128), "Navy")  # Closer to Blue
+    ]
 
-    for color_name, (lower_bound, upper_bound) in color_intervals.items():
-        if is_within_interval(rgb, lower_bound, upper_bound):
-            return color_name
+    # manhattan diff
+    diffs = []
+    for colorMapping in palette:
+        mapping = np.array(colorMapping[1])
+        color = np.array(rgb)
 
-    # If no match is found, return the closest color
-    closest_color = min(color_intervals, key=lambda color: np.linalg.norm(np.array(rgb) - np.array(color_intervals[color][0])))
-    return closest_color
+        diff = np.sum(np.abs(mapping-color))
+        diffs.append([colorMapping[0],diff,colorMapping[2]])
+    sorted_data = sorted(diffs, key=lambda x: x[1])
+    return sorted_data[0][0]
+
 
 
 def getColors():
@@ -71,6 +97,8 @@ def getColors():
 
     output = []
     for i, name in enumerate(os.listdir("sock_images")):
+
+
         if name not in colors:
             print(f"Processing {name}...")
             try:
@@ -103,3 +131,5 @@ def getColors():
     # Save the updated JSON data
     with open("data/color.json", "w", encoding="UTF-8") as file:
         json.dump(data, file, indent=4,ensure_ascii=False)
+
+getColors()
