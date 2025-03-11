@@ -90,8 +90,21 @@ def get_color_llm_response():
         if color1 in color['colors']:
             colorsmatching.append(color['name'])
 
+
+    print("owais",colorsmatching[0])
+    print("owais",products[0])
+
+    # filter
+    filtered = []
+    for data in colorsmatching:
+        if data.replace(".jpg","") in products:
+            filtered.append(data)
+
+    colorsmatching = filtered
+
+
     details = [product_details[os.path.splitext(key)[0]] for key in colorsmatching if os.path.splitext(key)[0] in product_details]
-    
+
     data = {
         "imgList" : details
     }
@@ -113,4 +126,4 @@ def fetch_products_list():
     return jsonify(data)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
