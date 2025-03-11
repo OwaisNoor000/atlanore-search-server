@@ -1,30 +1,71 @@
 [
     {
-        "name": "Akatsuki.jpg",
+        "name": "90s Theme.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Albert Einstein.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "APE.jpg",
-        "colors": [
-            "red",
+            "white",
             "blue"
+        ],
+        "specifics": [
+            "Silver",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                143,
+                179,
+                191
+            ],
+            [
+                39,
+                49,
+                54
+            ]
+        ]
+    },
+    {
+        "name": "Ape.jpg",
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                254,
+                253,
+                249
+            ],
+            [
+                41,
+                36,
+                66
+            ]
         ]
     },
     {
         "name": "AREA 51.jpg",
         "colors": [
-            "yellow",
-            "blue"
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Iguana"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                120,
+                172,
+                139
+            ]
         ]
     },
     {
@@ -32,27 +73,68 @@
         "colors": [
             "yellow",
             "yellow"
+        ],
+        "specifics": [
+            "Yellow",
+            "Cream"
+        ],
+        "hex": [
+            [
+                218,
+                186,
+                25
+            ],
+            [
+                243,
+                242,
+                241
+            ]
         ]
     },
     {
         "name": "AssHole.jpg",
         "colors": [
-            "red",
-            "red"
-        ]
-    },
-    {
-        "name": "Astroworld.jpg",
-        "colors": [
-            "red",
-            "yellow"
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                249,
+                249,
+                248
+            ],
+            [
+                25,
+                24,
+                22
+            ]
         ]
     },
     {
         "name": "Avatar.jpg",
         "colors": [
-            "green",
-            "yellow"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                248,
+                248,
+                246
+            ],
+            [
+                127,
+                102,
+                82
+            ]
         ]
     },
     {
@@ -60,76 +142,114 @@
         "colors": [
             "yellow",
             "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "Yellow"
+        ],
+        "hex": [
+            [
+                218,
+                224,
+                215
+            ],
+            [
+                243,
+                218,
+                60
+            ]
         ]
     },
     {
         "name": "Avocado.jpg",
         "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Avocado2.jpg",
-        "colors": [
-            "yellow",
+            "green",
             "yellow"
-        ]
-    },
-    {
-        "name": "Baby Yoda.jpg",
-        "colors": [
-            "red",
-            "yellow"
+        ],
+        "specifics": [
+            "Mustard",
+            "Gold"
+        ],
+        "hex": [
+            [
+                90,
+                120,
+                59
+            ],
+            [
+                224,
+                242,
+                180
+            ]
         ]
     },
     {
         "name": "Back to the 90’s.jpg",
         "colors": [
             "yellow",
-            "green"
+            "black"
+        ],
+        "specifics": [
+            "Gold",
+            "Gray"
+        ],
+        "hex": [
+            [
+                239,
+                190,
+                155
+            ],
+            [
+                121,
+                103,
+                89
+            ]
         ]
     },
     {
         "name": "BAPE.jpg",
         "colors": [
-            "blue",
+            "white",
             "blue"
-        ]
-    },
-    {
-        "name": "baron cat xs.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Baron Cat.jpg",
-        "colors": [
-            "green",
-            "green"
-        ]
-    },
-    {
-        "name": "Bart Simpson.jpg",
-        "colors": [
-            "blue",
-            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                253
+            ],
+            [
+                55,
+                24,
+                34
+            ]
         ]
     },
     {
         "name": "Batman and Robin.jpg",
         "colors": [
-            "green",
+            "red",
             "blue"
-        ]
-    },
-    {
-        "name": "Be like Pandaa.jpg",
-        "colors": [
-            "green",
-            "yellow"
+        ],
+        "specifics": [
+            "MatteRed",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                206,
+                150,
+                93
+            ],
+            [
+                44,
+                55,
+                55
+            ]
         ]
     },
     {
@@ -137,342 +257,712 @@
         "colors": [
             "yellow",
             "blue"
-        ]
-    },
-    {
-        "name": "Beige Cozy.jpg",
-        "colors": [
-            "yellow",
-            "green"
+        ],
+        "specifics": [
+            "Cream",
+            "Turqoise"
+        ],
+        "hex": [
+            [
+                249,
+                245,
+                243
+            ],
+            [
+                61,
+                98,
+                127
+            ]
         ]
     },
     {
         "name": "Beige Fuzzy.jpg",
         "colors": [
             "yellow",
-            "green"
+            "red"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                98,
+                74,
+                59
+            ],
+            [
+                221,
+                214,
+                211
+            ]
         ]
     },
     {
         "name": "Birth of Venus.jpg",
         "colors": [
-            "yellow",
-            "green"
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                251,
+                251,
+                252
+            ],
+            [
+                27,
+                46,
+                74
+            ]
         ]
     },
     {
         "name": "Bitch Please i am cat.jpg",
         "colors": [
-            "red",
-            "red"
-        ]
-    },
-    {
-        "name": "BITCH.jpg",
-        "colors": [
-            "yellow",
-            "red"
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                252,
+                252,
+                253
+            ],
+            [
+                40,
+                40,
+                40
+            ]
         ]
     },
     {
         "name": "Biu Biu Mode.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Black Flame.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Black Sushi.jpg",
-        "colors": [
-            "yellow",
-            "red"
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "MughalGreen"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                51,
+                66,
+                74
+            ]
         ]
     },
     {
         "name": "Black Vintage Lining.jpg",
         "colors": [
-            "yellow",
-            "red"
+            "black",
+            "yellow"
+        ],
+        "specifics": [
+            "Black",
+            "Cream"
+        ],
+        "hex": [
+            [
+                22,
+                19,
+                17
+            ],
+            [
+                238,
+                234,
+                229
+            ]
         ]
     },
     {
         "name": "Black X Yellow Flame.jpg",
         "colors": [
-            "yellow",
-            "green"
+            "green",
+            "white"
+        ],
+        "specifics": [
+            "Mustard",
+            "White"
+        ],
+        "hex": [
+            [
+                176,
+                125,
+                50
+            ],
+            [
+                253,
+                252,
+                251
+            ]
         ]
     },
     {
         "name": "Bloody Hands.jpg",
         "colors": [
-            "yellow",
+            "white",
             "red"
+        ],
+        "specifics": [
+            "White",
+            "Maroon"
+        ],
+        "hex": [
+            [
+                250,
+                248,
+                248
+            ],
+            [
+                164,
+                23,
+                24
+            ]
         ]
     },
     {
         "name": "Blue Fuzzy.jpg",
         "colors": [
             "yellow",
-            "blue"
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                222,
+                223,
+                221
+            ],
+            [
+                60,
+                48,
+                61
+            ]
         ]
     },
     {
         "name": "Blue x Green Nike.jpg",
         "colors": [
-            "yellow",
+            "red",
             "blue"
+        ],
+        "specifics": [
+            "DustStorm",
+            "Turqoise"
+        ],
+        "hex": [
+            [
+                221,
+                208,
+                194
+            ],
+            [
+                50,
+                145,
+                146
+            ]
         ]
     },
     {
         "name": "Bonne Maison Art.jpg",
         "colors": [
-            "green",
-            "green"
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "GunMetal",
+            "White"
+        ],
+        "hex": [
+            [
+                50,
+                55,
+                55
+            ],
+            [
+                252,
+                252,
+                252
+            ]
         ]
     },
     {
         "name": "Bonne Maison Faces Art.jpg",
         "colors": [
-            "blue",
-            "red"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                253
+            ],
+            [
+                88,
+                76,
+                111
+            ]
         ]
     },
     {
         "name": "Bonne Maison Nude Art.jpg",
         "colors": [
-            "yellow",
-            "yellow"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                252,
+                250,
+                249
+            ],
+            [
+                180,
+                161,
+                135
+            ]
+        ]
+    },
+    {
+        "name": "Bonne Maison Smoke Art.jpg",
+        "colors": [
+            "green",
+            "red"
+        ],
+        "specifics": [
+            "Algae",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                77,
+                131,
+                104
+            ],
+            [
+                243,
+                234,
+                196
+            ]
         ]
     },
     {
         "name": "Bowling.jpg",
         "colors": [
-            "yellow",
-            "blue"
+            "black",
+            "white"
+        ],
+        "specifics": [
+            "Olive",
+            "Silver"
+        ],
+        "hex": [
+            [
+                180,
+                147,
+                33
+            ],
+            [
+                187,
+                223,
+                252
+            ]
         ]
     },
     {
         "name": "Brown David Statue.jpg",
         "colors": [
-            "red",
-            "green"
+            "blue",
+            "black"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Gray"
+        ],
+        "hex": [
+            [
+                46,
+                43,
+                41
+            ],
+            [
+                174,
+                155,
+                138
+            ]
         ]
     },
     {
         "name": "Brown Fuzzy.jpg",
         "colors": [
-            "blue",
-            "red"
-        ]
-    },
-    {
-        "name": "Brownie Lucia.jpg",
-        "colors": [
-            "red",
-            "red"
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Cream"
+        ],
+        "hex": [
+            [
+                76,
+                53,
+                41
+            ],
+            [
+                222,
+                222,
+                223
+            ]
         ]
     },
     {
         "name": "Budapest.jpg",
         "colors": [
-            "blue",
+            "white",
             "green"
+        ],
+        "specifics": [
+            "White",
+            "Mustard"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                253
+            ],
+            [
+                110,
+                93,
+                58
+            ]
         ]
     },
     {
         "name": "Bugs Bunny.jpg",
         "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Burger &Coca-Cola.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "BURGER x HOTDOG.jpg",
-        "colors": [
-            "green",
-            "yellow"
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Algae"
+        ],
+        "hex": [
+            [
+                235,
+                247,
+                252
+            ],
+            [
+                70,
+                145,
+                75
+            ]
         ]
     },
     {
         "name": "Burnout.jpg",
         "colors": [
-            "yellow",
-            "red"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                72,
+                42,
+                42
+            ]
         ]
     },
     {
         "name": "Buzzed out Alien.jpg",
         "colors": [
-            "red",
-            "yellow"
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Silver"
+        ],
+        "hex": [
+            [
+                47,
+                44,
+                64
+            ],
+            [
+                188,
+                118,
+                184
+            ]
         ]
     },
     {
         "name": "Cactus Jack.jpg",
         "colors": [
-            "green",
-            "red"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "Gold"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                253
+            ],
+            [
+                222,
+                171,
+                142
+            ]
         ]
     },
     {
         "name": "Calabasas Yeezy.jpg",
         "colors": [
             "red",
-            "yellow"
+            "white"
+        ],
+        "specifics": [
+            "MatteRed",
+            "White"
+        ],
+        "hex": [
+            [
+                180,
+                109,
+                117
+            ],
+            [
+                249,
+                248,
+                248
+            ]
         ]
     },
     {
         "name": "Cap’n Crunch.jpg",
         "colors": [
-            "green",
-            "blue"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "Silver",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                173,
+                198,
+                191
+            ],
+            [
+                122,
+                70,
+                56
+            ]
         ]
     },
     {
         "name": "Chao.jpg",
         "colors": [
-            "yellow",
-            "green"
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "GunMetal",
+            "White"
+        ],
+        "hex": [
+            [
+                39,
+                57,
+                34
+            ],
+            [
+                250,
+                253,
+                248
+            ]
         ]
     },
     {
         "name": "Checkered.jpg",
         "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "Checkmate.jpg",
-        "colors": [
             "yellow",
             "blue"
-        ]
-    },
-    {
-        "name": "Cherry.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Chicken & Beer.jpg",
-        "colors": [
-            "yellow",
-            "red"
+        ],
+        "specifics": [
+            "Cream",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                228,
+                228,
+                230
+            ],
+            [
+                37,
+                37,
+                42
+            ]
         ]
     },
     {
         "name": "Christmas.jpg",
         "colors": [
-            "green",
+            "white",
             "red"
-        ]
-    },
-    {
-        "name": "Chucky.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Colorado.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Cookies.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Coral.jpg",
-        "colors": [
-            "blue",
-            "red"
-        ]
-    },
-    {
-        "name": "Corpse Bride.jpg",
-        "colors": [
-            "red",
-            "blue"
-        ]
-    },
-    {
-        "name": "Couple Hand Holding Socks.jpg",
-        "colors": [
-            "green",
-            "red"
+        ],
+        "specifics": [
+            "White",
+            "Maroon"
+        ],
+        "hex": [
+            [
+                251,
+                249,
+                248
+            ],
+            [
+                146,
+                13,
+                21
+            ]
         ]
     },
     {
         "name": "Crocodile.jpg",
         "colors": [
-            "yellow",
+            "white",
             "green"
+        ],
+        "specifics": [
+            "White",
+            "MughalGreen"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                48,
+                70,
+                45
+            ]
         ]
     },
     {
         "name": "Crush.jpg",
         "colors": [
-            "yellow",
-            "blue"
+            "black",
+            "white"
+        ],
+        "specifics": [
+            "Olive",
+            "Silver"
+        ],
+        "hex": [
+            [
+                182,
+                167,
+                18
+            ],
+            [
+                172,
+                194,
+                232
+            ]
         ]
     },
     {
         "name": "Cupid.jpg",
         "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "DAMAHOOU.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Dancing Lemon.jpg",
-        "colors": [
             "yellow",
-            "red"
+            "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                250,
+                246,
+                243
+            ],
+            [
+                37,
+                50,
+                80
+            ]
         ]
     },
     {
         "name": "Dark Grey Fuzzy.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "David Portrait.jpg",
-        "colors": [
-            "yellow",
-            "blue"
+            "green",
+            "white"
+        ],
+        "specifics": [
+            "Mustard",
+            "Silver"
+        ],
+        "hex": [
+            [
+                102,
+                94,
+                98
+            ],
+            [
+                217,
+                201,
+                188
+            ]
         ]
     },
     {
@@ -480,20 +970,91 @@
         "colors": [
             "yellow",
             "blue"
+        ],
+        "specifics": [
+            "Gold",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                251,
+                220,
+                103
+            ],
+            [
+                22,
+                194,
+                224
+            ]
+        ]
+    },
+    {
+        "name": "DBZ Master Roshi.jpg",
+        "colors": [
+            "red",
+            "white"
+        ],
+        "specifics": [
+            "DarkPink",
+            "White"
+        ],
+        "hex": [
+            [
+                183,
+                41,
+                39
+            ],
+            [
+                250,
+                249,
+                248
+            ]
         ]
     },
     {
         "name": "Dbz.jpg",
         "colors": [
-            "yellow",
+            "red",
             "green"
+        ],
+        "specifics": [
+            "DustStorm",
+            "MughalGreen"
+        ],
+        "hex": [
+            [
+                221,
+                229,
+                194
+            ],
+            [
+                62,
+                86,
+                45
+            ]
         ]
     },
     {
         "name": "Death by Decaf.jpg",
         "colors": [
-            "yellow",
-            "red"
+            "green",
+            "yellow"
+        ],
+        "specifics": [
+            "Mustard",
+            "Cream"
+        ],
+        "hex": [
+            [
+                104,
+                85,
+                80
+            ],
+            [
+                241,
+                245,
+                243
+            ]
         ]
     },
     {
@@ -501,6 +1062,22 @@
         "colors": [
             "yellow",
             "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                243,
+                241,
+                236
+            ],
+            [
+                22,
+                25,
+                41
+            ]
         ]
     },
     {
@@ -508,622 +1085,1126 @@
         "colors": [
             "yellow",
             "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                237,
+                217,
+                229
+            ],
+            [
+                35,
+                29,
+                31
+            ]
         ]
     },
     {
         "name": "Demon Slayer.jpg",
         "colors": [
             "yellow",
-            "red"
+            "blue"
+        ],
+        "specifics": [
+            "Gold",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                237,
+                224,
+                168
+            ],
+            [
+                44,
+                28,
+                24
+            ]
         ]
     },
     {
-        "name": "Dizzy.jpg",
-        "colors": [
-            "red",
-            "green"
-        ]
-    },
-    {
-        "name": "Dolphin.jpg",
+        "name": "Eagle.jpg",
         "colors": [
             "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Donald.jpg",
-        "colors": [
-            "blue",
             "yellow"
-        ]
-    },
-    {
-        "name": "Dont Follow Me ( I am lost too).jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "Donut.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Dracarys “Game of Thrones”.jpg",
-        "colors": [
-            "red",
-            "green"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                240,
+                223,
+                225
+            ],
+            [
+                55,
+                47,
+                34
+            ]
         ]
     },
     {
         "name": "EGG.jpg",
         "colors": [
             "yellow",
-            "yellow"
+            "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                242,
+                233,
+                208
+            ],
+            [
+                116,
+                176,
+                205
+            ]
         ]
     },
     {
         "name": "Egypt.jpg",
         "colors": [
             "yellow",
-            "red"
+            "yellow"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Gold"
+        ],
+        "hex": [
+            [
+                73,
+                56,
+                40
+            ],
+            [
+                223,
+                195,
+                152
+            ]
         ]
     },
     {
         "name": "ELIZA&DONNIE MISMATCH PAIR.jpg",
         "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Embroidered beauty.jpg",
-        "colors": [
-            "green",
-            "yellow"
+            "white",
+            "red"
+        ],
+        "specifics": [
+            "White",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                251,
+                251,
+                252
+            ],
+            [
+                203,
+                131,
+                70
+            ]
         ]
     },
     {
         "name": "Ernie The Giant Chicken.jpg",
         "colors": [
             "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Essentials Black.jpg",
-        "colors": [
-            "green",
-            "red"
-        ]
-    },
-    {
-        "name": "Essentials Brown.jpg",
-        "colors": [
-            "green",
             "yellow"
-        ]
-    },
-    {
-        "name": "Essentials Grey.jpg",
-        "colors": [
-            "red",
-            "blue"
-        ]
-    },
-    {
-        "name": "Essentials White.jpg",
-        "colors": [
-            "green",
-            "red"
+        ],
+        "specifics": [
+            "Cream",
+            "Gold"
+        ],
+        "hex": [
+            [
+                240,
+                242,
+                239
+            ],
+            [
+                231,
+                185,
+                45
+            ]
         ]
     },
     {
         "name": "ESSENTIALS.jpg",
         "colors": [
             "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Everyones a Gangsta.jpg",
-        "colors": [
-            "blue",
-            "blue"
+            "white"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Silver"
+        ],
+        "hex": [
+            [
+                39,
+                39,
+                37
+            ],
+            [
+                186,
+                182,
+                172
+            ]
         ]
     },
     {
         "name": "Expression.jpg",
         "colors": [
             "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Eyes On You.jpg",
-        "colors": [
-            "green",
             "yellow"
+        ],
+        "specifics": [
+            "Mustard",
+            "Cream"
+        ],
+        "hex": [
+            [
+                159,
+                179,
+                56
+            ],
+            [
+                237,
+                241,
+                239
+            ]
         ]
     },
     {
-        "name": "F You Pay Me.jpg",
+        "name": "F you paye me.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Fendi Tshirt.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Flame copy.jpg",
-        "colors": [
-            "yellow",
+            "white",
             "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                48,
+                22,
+                26
+            ]
         ]
     },
     {
         "name": "Flame.jpg",
         "colors": [
-            "blue",
-            "yellow"
+            "yellow",
+            "red"
+        ],
+        "specifics": [
+            "Cream",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                215,
+                235,
+                240
+            ],
+            [
+                156,
+                112,
+                72
+            ]
         ]
     },
     {
         "name": "Formula 1.jpg",
         "colors": [
-            "green",
-            "blue"
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                226,
+                240,
+                233
+            ],
+            [
+                139,
+                70,
+                35
+            ]
         ]
     },
     {
         "name": "Freedom.jpg",
         "colors": [
-            "yellow",
+            "white",
             "blue"
+        ],
+        "specifics": [
+            "White",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                81,
+                182,
+                198
+            ]
         ]
     },
     {
         "name": "Frosted Blue Nike Tie-Dye.jpg",
         "colors": [
-            "blue",
+            "white",
             "blue"
+        ],
+        "specifics": [
+            "Silver",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                179,
+                225,
+                239
+            ],
+            [
+                74,
+                188,
+                222
+            ]
         ]
     },
     {
         "name": "Fuck OFF.jpg",
         "colors": [
             "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Giraffe In Paris.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "GO AWAY.jpg",
-        "colors": [
-            "red",
-            "red"
+            "white"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Silver"
+        ],
+        "hex": [
+            [
+                81,
+                59,
+                50
+            ],
+            [
+                182,
+                171,
+                171
+            ]
         ]
     },
     {
         "name": "Go Bananananaa.jpg",
         "colors": [
-            "red",
-            "red"
-        ]
-    },
-    {
-        "name": "Goku.jpg",
-        "colors": [
             "yellow",
-            "green"
+            "red"
+        ],
+        "specifics": [
+            "Cream",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                238,
+                233,
+                234
+            ],
+            [
+                218,
+                108,
+                144
+            ]
         ]
     },
     {
-        "name": "GOLF.jpg",
+        "name": "GOLF WANG.jpg",
         "colors": [
             "blue",
-            "yellow"
+            "red"
+        ],
+        "specifics": [
+            "Teal",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                24,
+                104,
+                124
+            ],
+            [
+                238,
+                121,
+                123
+            ]
         ]
     },
     {
         "name": "Green Dog.jpg",
         "colors": [
-            "yellow",
-            "blue"
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Algae"
+        ],
+        "hex": [
+            [
+                252,
+                251,
+                248
+            ],
+            [
+                35,
+                115,
+                88
+            ]
         ]
     },
     {
         "name": "Grey Fuzzy.jpg",
         "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Gucci Shirt.jpg",
-        "colors": [
-            "green",
-            "red"
-        ]
-    },
-    {
-        "name": "Gucci.jpg",
-        "colors": [
             "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "GUESS Eco Gemma Crossbody Camera.jpg",
-        "colors": [
-            "yellow",
-            "red"
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                221,
+                221,
+                224
+            ],
+            [
+                99,
+                75,
+                67
+            ]
         ]
     },
     {
         "name": "Halloween.jpg",
         "colors": [
-            "red",
-            "green"
+            "white",
+            "red"
+        ],
+        "specifics": [
+            "Silver",
+            "DarkPink"
+        ],
+        "hex": [
+            [
+                170,
+                197,
+                178
+            ],
+            [
+                172,
+                49,
+                57
+            ]
         ]
     },
     {
         "name": "Harry Potter (Dobby Is Free).jpg",
         "colors": [
-            "yellow",
-            "blue"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Black"
+        ],
+        "hex": [
+            [
+                250,
+                250,
+                250
+            ],
+            [
+                18,
+                17,
+                19
+            ]
         ]
     },
     {
         "name": "Harry Potter Hogwarts Crest.jpg",
         "colors": [
             "blue",
-            "yellow"
+            "white"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Silver"
+        ],
+        "hex": [
+            [
+                47,
+                60,
+                72
+            ],
+            [
+                219,
+                207,
+                188
+            ]
         ]
     },
     {
         "name": "Have Nice Day.jpg",
         "colors": [
-            "red",
-            "yellow"
+            "yellow",
+            "black"
+        ],
+        "specifics": [
+            "Cream",
+            "Black"
+        ],
+        "hex": [
+            [
+                233,
+                229,
+                226
+            ],
+            [
+                15,
+                13,
+                11
+            ]
         ]
     },
     {
         "name": "Heart Mismatch.jpg",
         "colors": [
-            "blue",
-            "yellow"
+            "white",
+            "red"
+        ],
+        "specifics": [
+            "White",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                233,
+                218,
+                197
+            ]
         ]
     },
     {
-        "name": "HillWood Boys.jpg",
+        "name": "i am cat.jpg",
         "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Hot Wheels.jpg",
-        "colors": [
-            "red",
-            "blue"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Black"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                253
+            ],
+            [
+                8,
+                5,
+                9
+            ]
         ]
     },
     {
         "name": "I am Old Now.jpg",
         "colors": [
-            "red",
-            "yellow"
+            "yellow",
+            "black"
+        ],
+        "specifics": [
+            "Cream",
+            "Gray"
+        ],
+        "hex": [
+            [
+                232,
+                231,
+                226
+            ],
+            [
+                94,
+                93,
+                110
+            ]
         ]
     },
     {
         "name": "I cry.jpg",
         "colors": [
-            "green",
-            "red"
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Gold"
+        ],
+        "hex": [
+            [
+                89,
+                76,
+                66
+            ],
+            [
+                226,
+                197,
+                175
+            ]
         ]
     },
     {
         "name": "I dont give a fuck.jpg",
         "colors": [
-            "blue",
+            "white",
             "yellow"
+        ],
+        "specifics": [
+            "White",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                242,
+                242,
+                247
+            ],
+            [
+                65,
+                64,
+                79
+            ]
         ]
     },
     {
         "name": "I love my asshole kids.jpg",
         "colors": [
             "red",
-            "green"
+            "yellow"
+        ],
+        "specifics": [
+            "MatteRed",
+            "Cream"
+        ],
+        "hex": [
+            [
+                150,
+                96,
+                82
+            ],
+            [
+                233,
+                233,
+                227
+            ]
         ]
     },
     {
         "name": "I Shy.jpg",
         "colors": [
             "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Idk.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "IF YOU CAN READ THIS.jpg",
-        "colors": [
-            "red",
             "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "Gold"
+        ],
+        "hex": [
+            [
+                235,
+                232,
+                227
+            ],
+            [
+                238,
+                219,
+                145
+            ]
         ]
     },
     {
-        "name": "Itachi.jpg",
+        "name": "itachi.jpg",
+        "colors": [
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                253,
+                252,
+                252
+            ],
+            [
+                77,
+                61,
+                62
+            ]
+        ]
+    },
+    {
+        "name": "I’ll tell you what.jpg",
         "colors": [
             "yellow",
             "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                253,
+                252,
+                228
+            ],
+            [
+                47,
+                36,
+                28
+            ]
         ]
     },
     {
         "name": "Khaki Checkered.jpg",
         "colors": [
-            "green",
+            "black",
             "yellow"
-        ]
-    },
-    {
-        "name": "Khaki Cozy.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "King Of The Hill 1977.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Klimts Kiss.jpg",
-        "colors": [
-            "green",
-            "green"
+        ],
+        "specifics": [
+            "Olive",
+            "Cream"
+        ],
+        "hex": [
+            [
+                192,
+                174,
+                17
+            ],
+            [
+                249,
+                245,
+                230
+            ]
         ]
     },
     {
         "name": "Korean BBQ.jpg",
         "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Krusty Burger.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Lazy cat.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Leaf.jpg",
-        "colors": [
-            "blue",
-            "yellow"
+            "red",
+            "white"
+        ],
+        "specifics": [
+            "MatteRed",
+            "White"
+        ],
+        "hex": [
+            [
+                156,
+                97,
+                57
+            ],
+            [
+                246,
+                250,
+                245
+            ]
         ]
     },
     {
         "name": "Legacy Beard Socks.jpg",
         "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Let me 💤.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Lets Fly Up.jpg",
-        "colors": [
-            "yellow",
-            "blue"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                249,
+                249,
+                249
+            ],
+            [
+                105,
+                105,
+                105
+            ]
         ]
     },
     {
         "name": "Light Brown Fuzzy.jpg",
         "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Lightning Thunder.jpg",
-        "colors": [
-            "blue",
-            "red"
-        ]
-    },
-    {
-        "name": "Lightning.jpg",
-        "colors": [
-            "green",
-            "blue"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "Silver",
+            "Gray"
+        ],
+        "hex": [
+            [
+                215,
+                198,
+                186
+            ],
+            [
+                135,
+                117,
+                111
+            ]
         ]
     },
     {
         "name": "Looney Tunes.jpg",
         "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "LooneyTunes Mismatch.jpg",
-        "colors": [
-            "blue",
-            "blue"
+            "yellow",
+            "red"
+        ],
+        "specifics": [
+            "Cream",
+            "Maroon"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                221
+            ],
+            [
+                174,
+                33,
+                27
+            ]
         ]
     },
     {
         "name": "Luncheon on the Grass.jpg",
         "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Man’s best friend.jpg",
-        "colors": [
-            "blue",
+            "white",
             "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                253
+            ],
+            [
+                39,
+                44,
+                39
+            ]
         ]
     },
     {
         "name": "Marc Chagall - i and the village.jpg",
         "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Maroon Red.jpg",
-        "colors": [
-            "yellow",
-            "red"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                252,
+                252,
+                252
+            ],
+            [
+                118,
+                41,
+                54
+            ]
         ]
     },
     {
         "name": "Michael Jackson.jpg",
         "colors": [
-            "red",
-            "yellow"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Black"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                253
+            ],
+            [
+                27,
+                13,
+                13
+            ]
         ]
     },
     {
         "name": "Middle Finger.jpg",
         "colors": [
-            "red",
-            "yellow"
+            "blue",
+            "black"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Gray"
+        ],
+        "hex": [
+            [
+                44,
+                33,
+                37
+            ],
+            [
+                121,
+                134,
+                151
+            ]
         ]
     },
     {
         "name": "Minions.jpg",
         "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Mismatch Drink&Fries.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "MOE’S.jpg",
-        "colors": [
-            "yellow",
-            "blue"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "Gold"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                253
+            ],
+            [
+                221,
+                196,
+                101
+            ]
         ]
     },
     {
         "name": "Mona Lisa.jpg",
         "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Movie Time.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Mystery Sock Box.jpg",
-        "colors": [
-            "blue",
+            "yellow",
             "green"
+        ],
+        "specifics": [
+            "Cream",
+            "MughalGreen"
+        ],
+        "hex": [
+            [
+                233,
+                228,
+                218
+            ],
+            [
+                70,
+                94,
+                75
+            ]
+        ]
+    },
+    {
+        "name": "Murphy The Surfie.jpg",
+        "colors": [
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "White",
+            "Gold"
+        ],
+        "hex": [
+            [
+                223,
+                242,
+                250
+            ],
+            [
+                190,
+                188,
+                58
+            ]
         ]
     },
     {
         "name": "Narcos Theme.jpg",
         "colors": [
-            "yellow",
+            "red",
             "red"
+        ],
+        "specifics": [
+            "DustStorm",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                233,
+                225,
+                202
+            ],
+            [
+                130,
+                92,
+                78
+            ]
         ]
     },
     {
         "name": "Naruto.jpg",
         "colors": [
-            "green",
-            "blue"
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                245,
+                247,
+                247
+            ],
+            [
+                128,
+                117,
+                97
+            ]
         ]
     },
     {
         "name": "Nefertiti Queen.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Nightmare before Christmas.jpg",
-        "colors": [
-            "red",
-            "red"
-        ]
-    },
-    {
-        "name": "Nike Baby Pink.jpg",
-        "colors": [
-            "red",
-            "red"
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "Turqoise",
+            "White"
+        ],
+        "hex": [
+            [
+                17,
+                120,
+                164
+            ],
+            [
+                254,
+                254,
+                253
+            ]
         ]
     },
     {
         "name": "Nike Black.jpg",
         "colors": [
             "blue",
-            "green"
+            "yellow"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Gold"
+        ],
+        "hex": [
+            [
+                47,
+                38,
+                34
+            ],
+            [
+                212,
+                188,
+                139
+            ]
         ]
     },
     {
         "name": "Nike Bright Yellow.jpg",
         "colors": [
-            "yellow",
-            "red"
+            "red",
+            "yellow"
+        ],
+        "specifics": [
+            "DustStorm",
+            "Gold"
+        ],
+        "hex": [
+            [
+                237,
+                224,
+                208
+            ],
+            [
+                209,
+                188,
+                80
+            ]
         ]
     },
     {
@@ -1131,41 +2212,114 @@
         "colors": [
             "red",
             "yellow"
+        ],
+        "specifics": [
+            "DustStorm",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                224,
+                214,
+                200
+            ],
+            [
+                89,
+                83,
+                92
+            ]
         ]
     },
     {
         "name": "Nike Light Green.jpg",
         "colors": [
             "yellow",
-            "blue"
+            "green"
+        ],
+        "specifics": [
+            "Cream",
+            "Iguana"
+        ],
+        "hex": [
+            [
+                224,
+                224,
+                223
+            ],
+            [
+                134,
+                185,
+                137
+            ]
         ]
     },
     {
         "name": "Nike Lilac Purple.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Nike No Show.jpg",
-        "colors": [
-            "red",
-            "green"
+            "blue",
+            "yellow"
+        ],
+        "specifics": [
+            "Purple",
+            "Cream"
+        ],
+        "hex": [
+            [
+                96,
+                39,
+                149
+            ],
+            [
+                232,
+                232,
+                234
+            ]
         ]
     },
     {
         "name": "Nike Pink.jpg",
         "colors": [
-            "red",
-            "yellow"
+            "yellow",
+            "red"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                88,
+                77,
+                87
+            ],
+            [
+                238,
+                206,
+                202
+            ]
         ]
     },
     {
         "name": "Nike Pumpkin Orange.jpg",
         "colors": [
-            "blue",
-            "yellow"
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "Gold",
+            "Turqoise"
+        ],
+        "hex": [
+            [
+                227,
+                191,
+                111
+            ],
+            [
+                18,
+                96,
+                158
+            ]
         ]
     },
     {
@@ -1173,118 +2327,229 @@
         "colors": [
             "yellow",
             "red"
-        ]
-    },
-    {
-        "name": "Nike Socks.jpg",
-        "colors": [
-            "red",
-            "green"
+        ],
+        "specifics": [
+            "Cream",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                243,
+                230,
+                219
+            ],
+            [
+                206,
+                38,
+                73
+            ]
         ]
     },
     {
         "name": "Nike Tie-Dye B&W.jpg",
         "colors": [
-            "red",
-            "red"
+            "yellow",
+            "white"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Silver"
+        ],
+        "hex": [
+            [
+                86,
+                84,
+                87
+            ],
+            [
+                202,
+                199,
+                205
+            ]
         ]
     },
     {
         "name": "NIKE TIE-DYE BLUE.jpg",
         "colors": [
-            "red",
-            "blue"
+            "yellow",
+            "white"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Silver"
+        ],
+        "hex": [
+            [
+                79,
+                77,
+                84
+            ],
+            [
+                195,
+                197,
+                211
+            ]
         ]
     },
     {
         "name": "Nike Tie-Dye Lavender.jpg",
         "colors": [
             "yellow",
-            "green"
+            "black"
+        ],
+        "specifics": [
+            "Cream",
+            "Gray"
+        ],
+        "hex": [
+            [
+                240,
+                227,
+                226
+            ],
+            [
+                154,
+                120,
+                113
+            ]
         ]
     },
     {
         "name": "Nike Tie-Dye Orange.jpg",
         "colors": [
-            "yellow",
-            "green"
+            "green",
+            "red"
+        ],
+        "specifics": [
+            "Mustard",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                97,
+                87,
+                86
+            ],
+            [
+                223,
+                208,
+                208
+            ]
         ]
     },
     {
         "name": "Nike Tie-Dye Yellow.jpg",
         "colors": [
-            "red",
+            "yellow",
             "yellow"
+        ],
+        "specifics": [
+            "Gold",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                219,
+                209,
+                172
+            ],
+            [
+                85,
+                81,
+                81
+            ]
         ]
     },
     {
         "name": "Nike White.jpg",
         "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Nike.jpg",
-        "colors": [
-            "red",
+            "white",
             "yellow"
+        ],
+        "specifics": [
+            "Silver",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                149,
+                162,
+                175
+            ],
+            [
+                78,
+                74,
+                80
+            ]
         ]
     },
     {
         "name": "Ninja Turtles.jpg",
         "colors": [
-            "red",
-            "blue"
-        ]
-    },
-    {
-        "name": "NO Drama Please.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "No You.jpg",
-        "colors": [
             "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Nostalgic Art Pair.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Nostalgic Funk Art.jpg",
-        "colors": [
-            "green",
             "yellow"
+        ],
+        "specifics": [
+            "Gold",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                228,
+                195,
+                102
+            ],
+            [
+                62,
+                40,
+                30
+            ]
         ]
     },
     {
         "name": "Not Interested Expression.jpg",
         "colors": [
-            "yellow",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Nude Art.jpg",
-        "colors": [
-            "yellow",
-            "blue"
+            "white",
+            "red"
+        ],
+        "specifics": [
+            "White",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                240,
+                217,
+                185
+            ]
         ]
     },
     {
         "name": "Nude Portrait.jpg",
         "colors": [
-            "yellow",
-            "green"
+            "white",
+            "white"
+        ],
+        "specifics": [
+            "Silver",
+            "White"
+        ],
+        "hex": [
+            [
+                193,
+                189,
+                185
+            ],
+            [
+                253,
+                253,
+                253
+            ]
         ]
     },
     {
@@ -1292,223 +2557,390 @@
         "colors": [
             "yellow",
             "red"
-        ]
-    },
-    {
-        "name": "OCEAN BLUE.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "Off White Inspired.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "OFF-WHITE INSPIRED.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Ok Expression.jpg",
-        "colors": [
-            "yellow",
-            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                223,
+                221,
+                220
+            ],
+            [
+                172,
+                104,
+                81
+            ]
         ]
     },
     {
         "name": "One Piece.jpg",
         "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Open your eyes.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Orange Cozy.jpg",
-        "colors": [
-            "red",
-            "yellow"
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "Turqoise"
+        ],
+        "hex": [
+            [
+                251,
+                250,
+                248
+            ],
+            [
+                18,
+                158,
+                214
+            ]
         ]
     },
     {
         "name": "Orange.jpg",
         "colors": [
-            "yellow",
+            "red",
             "red"
+        ],
+        "specifics": [
+            "DustStorm",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                233,
+                216,
+                202
+            ],
+            [
+                207,
+                61,
+                34
+            ]
         ]
     },
     {
-        "name": "Oreo.jpg",
+        "name": "Oscar The Grouch.jpg",
         "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "OSCAR THE GROUCH.jpg",
-        "colors": [
-            "blue",
-            "green"
+            "green",
+            "yellow"
+        ],
+        "specifics": [
+            "Mustard",
+            "Gold"
+        ],
+        "hex": [
+            [
+                103,
+                125,
+                61
+            ],
+            [
+                226,
+                213,
+                158
+            ]
         ]
     },
     {
         "name": "Oyster.jpg",
         "colors": [
-            "green",
-            "blue"
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Algae"
+        ],
+        "hex": [
+            [
+                246,
+                250,
+                253
+            ],
+            [
+                89,
+                94,
+                100
+            ]
         ]
     },
     {
         "name": "Palm Tree.jpg",
         "colors": [
             "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Pineapple Oasis.jpg",
-        "colors": [
-            "red",
-            "red"
+            "yellow"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Gold"
+        ],
+        "hex": [
+            [
+                58,
+                56,
+                41
+            ],
+            [
+                222,
+                199,
+                181
+            ]
         ]
     },
     {
         "name": "PINK PANTHER.jpg",
         "colors": [
-            "red",
-            "red"
+            "white",
+            "yellow"
+        ],
+        "specifics": [
+            "Silver",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                193,
+                186,
+                200
+            ],
+            [
+                110,
+                51,
+                69
+            ]
         ]
     },
     {
         "name": "Pissed Alien.jpg",
         "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Pizzzaaa.jpg",
-        "colors": [
-            "yellow",
-            "blue"
+            "blue",
+            "yellow"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Gold"
+        ],
+        "hex": [
+            [
+                28,
+                30,
+                52
+            ],
+            [
+                221,
+                173,
+                141
+            ]
         ]
     },
     {
         "name": "Plankton SpongeBob.jpg",
         "colors": [
-            "yellow",
-            "blue"
+            "black",
+            "white"
+        ],
+        "specifics": [
+            "Gray",
+            "White"
+        ],
+        "hex": [
+            [
+                106,
+                146,
+                155
+            ],
+            [
+                251,
+                252,
+                246
+            ]
         ]
     },
     {
         "name": "Poached Egg.jpg",
         "colors": [
-            "blue",
-            "yellow"
+            "yellow",
+            "white"
+        ],
+        "specifics": [
+            "Yellow",
+            "Silver"
+        ],
+        "hex": [
+            [
+                251,
+                194,
+                3
+            ],
+            [
+                141,
+                173,
+                194
+            ]
         ]
     },
     {
-        "name": "Polka.jpg",
+        "name": "Pointing Fingers.jpg",
         "colors": [
-            "green",
-            "yellow"
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                254,
+                236,
+                235
+            ],
+            [
+                101,
+                149,
+                213
+            ]
         ]
     },
     {
         "name": "Popeye.jpg",
         "colors": [
-            "green",
+            "yellow",
             "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                246,
+                245,
+                238
+            ],
+            [
+                79,
+                59,
+                55
+            ]
         ]
     },
     {
         "name": "Powerpuff girls.jpg",
         "colors": [
-            "red",
+            "yellow",
             "red"
-        ]
-    },
-    {
-        "name": "Prada Tshirt.jpg",
-        "colors": [
-            "blue",
-            "green"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "DustStorm"
+        ],
+        "hex": [
+            [
+                73,
+                69,
+                97
+            ],
+            [
+                217,
+                206,
+                210
+            ]
         ]
     },
     {
         "name": "Pug.jpg",
         "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Puppy.jpg",
-        "colors": [
-            "yellow",
+            "white",
             "blue"
+        ],
+        "specifics": [
+            "Silver",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                210,
+                209,
+                208
+            ],
+            [
+                43,
+                38,
+                34
+            ]
         ]
     },
     {
         "name": "Purple Checkered.jpg",
         "colors": [
-            "red",
+            "black",
             "yellow"
-        ]
-    },
-    {
-        "name": "Purple Lemon.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "PurplexYellow Checkered.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Ralph Lauren.jpg",
-        "colors": [
-            "blue",
-            "green"
+        ],
+        "specifics": [
+            "Gray",
+            "Cream"
+        ],
+        "hex": [
+            [
+                120,
+                94,
+                110
+            ],
+            [
+                222,
+                221,
+                219
+            ]
         ]
     },
     {
         "name": "Ren & Stimpy.jpg",
         "colors": [
-            "blue",
-            "yellow"
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "Silver",
+            "Mustard"
+        ],
+        "hex": [
+            [
+                216,
+                216,
+                195
+            ],
+            [
+                94,
+                92,
+                84
+            ]
         ]
     },
     {
         "name": "Rick & Morty.jpg",
         "colors": [
-            "blue",
+            "yellow",
             "yellow"
-        ]
-    },
-    {
-        "name": "Rick Griffin.jpg",
-        "colors": [
-            "green",
-            "blue"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "Gold"
+        ],
+        "hex": [
+            [
+                66,
+                73,
+                49
+            ],
+            [
+                238,
+                232,
+                163
+            ]
         ]
     },
     {
@@ -1516,510 +2948,22 @@
         "colors": [
             "blue",
             "yellow"
-        ]
-    },
-    {
-        "name": "Sakura Pink Nike Tie-Dye.jpg",
-        "colors": [
-            "green",
-            "red"
-        ]
-    },
-    {
-        "name": "Sand.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "SASUKE.jpg",
-        "colors": [
-            "blue",
-            "red"
-        ]
-    },
-    {
-        "name": "Scooby Doo.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Seeking Paradise.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Shark.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Shinchan.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Simpsons (Limited Edition).jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "SIMPSONS.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Skeleton.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Skeletor.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Sketch Phanton.jpg",
-        "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "skull.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "SLUT.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Snap Crackle Pop.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Snap!.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Snoopy.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "Solid Beige.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "SOLID BLACK ANKLE.jpg",
-        "colors": [
-            "red",
-            "blue"
-        ]
-    },
-    {
-        "name": "Solid Black.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Spicy.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "SpongeBob Gary.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "SpongeBob Underwater.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "SpongeBob.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Spooky Season.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Staffordshire Terrier Dog Sock.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Stone Age Classic Art.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Stone Grey.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "STREET WEAR.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Suit up.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Supreme.jpg",
-        "colors": [
-            "blue",
-            "red"
-        ]
-    },
-    {
-        "name": "Taco.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "Texas Vibes.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "The Great Wave off Kanagawa.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "The Guitarist.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "The Rolling Stones.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "The Scream.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "The Simpsons Krusty Burger.jpg",
-        "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "The Wild Thornberrys.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Thrasher.jpg",
-        "colors": [
-            "green",
-            "blue"
-        ]
-    },
-    {
-        "name": "TOM & JERRY MISMATCH PAIR.jpg",
-        "colors": [
-            "red",
-            "blue"
-        ]
-    },
-    {
-        "name": "Tom & Jerry.jpg",
-        "colors": [
-            "blue",
-            "green"
-        ]
-    },
-    {
-        "name": "Tom and jerry.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Tommy and Chuckie.jpg",
-        "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Travis Scott Cactus Jack.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "UNDERTAKER.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Van Gogh Leon.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "Van Gogh.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Vans.jpg",
-        "colors": [
-            "red",
-            "green"
-        ]
-    },
-    {
-        "name": "Vintage Lining.jpg",
-        "colors": [
-            "yellow",
-            "green"
-        ]
-    },
-    {
-        "name": "Wheat Field With Cypresses.jpg",
-        "colors": [
-            "blue",
-            "blue"
-        ]
-    },
-    {
-        "name": "White X Red Flame.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Wine Red Fuzzy.jpg",
-        "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Woollen Beige Cozy.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Woollen Brown Cozy.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Woollen Khaki Cozy.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Wtf.jpg",
-        "colors": [
-            "green",
-            "red"
-        ]
-    },
-    {
-        "name": "Zebra.jpg",
-        "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "ZORKÈT SOLID WHITE.jpg",
-        "colors": [
-            "yellow",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Zzz.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "💀.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "90s Theme.jpg",
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Bonne Maison Smoke Art.jpg",
-        "colors": [
-            "green",
-            "yellow"
-        ]
-    },
-    {
-        "name": "DBZ Master Roshi.jpg",
-        "colors": [
-            "red",
-            "yellow"
-        ]
-    },
-    {
-        "name": "Eagle.jpg",
-        "colors": [
-            "red",
-            "red"
-        ]
-    },
-    {
-        "name": "F you paye me.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "GOLF WANG.jpg",
-        "colors": [
-            "red",
-            "blue"
-        ]
-    },
-    {
-        "name": "i am cat.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "itachi.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "I’ll tell you what.jpg",
-        "colors": [
-            "yellow",
-            "red"
-        ]
-    },
-    {
-        "name": "Murphy The Surfie.jpg",
-        "colors": [
-            "yellow",
-            "blue"
-        ]
-    },
-    {
-        "name": "Pointing Fingers.jpg",
-        "colors": [
-            "yellow",
-            "green"
+        ],
+        "specifics": [
+            "Turqoise",
+            "Cream"
+        ],
+        "hex": [
+            [
+                21,
+                123,
+                172
+            ],
+            [
+                239,
+                235,
+                224
+            ]
         ]
     },
     {
@@ -2027,6 +2971,275 @@
         "colors": [
             "yellow",
             "blue"
+        ],
+        "specifics": [
+            "Gold",
+            "Teal"
+        ],
+        "hex": [
+            [
+                232,
+                192,
+                127
+            ],
+            [
+                11,
+                148,
+                202
+            ]
+        ]
+    },
+    {
+        "name": "Sakura Pink Nike Tie-Dye.jpg",
+        "colors": [
+            "black",
+            "white"
+        ],
+        "specifics": [
+            "Black",
+            "Silver"
+        ],
+        "hex": [
+            [
+                15,
+                15,
+                15
+            ],
+            [
+                168,
+                162,
+                156
+            ]
+        ]
+    },
+    {
+        "name": "SASUKE.jpg",
+        "colors": [
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Algae"
+        ],
+        "hex": [
+            [
+                251,
+                250,
+                249
+            ],
+            [
+                63,
+                81,
+                100
+            ]
+        ]
+    },
+    {
+        "name": "Scooby Doo.jpg",
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                248,
+                251,
+                251
+            ],
+            [
+                87,
+                162,
+                197
+            ]
+        ]
+    },
+    {
+        "name": "Shark.jpg",
+        "colors": [
+            "green",
+            "white"
+        ],
+        "specifics": [
+            "Algae",
+            "Silver"
+        ],
+        "hex": [
+            [
+                89,
+                86,
+                95
+            ],
+            [
+                175,
+                174,
+                191
+            ]
+        ]
+    },
+    {
+        "name": "Shinchan.jpg",
+        "colors": [
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                246,
+                230,
+                208
+            ],
+            [
+                96,
+                56,
+                45
+            ]
+        ]
+    },
+    {
+        "name": "Simpsons (Limited Edition).jpg",
+        "colors": [
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                246,
+                246,
+                239
+            ],
+            [
+                97,
+                76,
+                68
+            ]
+        ]
+    },
+    {
+        "name": "SIMPSONS.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "specifics": [
+            "Teal",
+            "Gold"
+        ],
+        "hex": [
+            [
+                22,
+                89,
+                124
+            ],
+            [
+                231,
+                216,
+                158
+            ]
+        ]
+    },
+    {
+        "name": "Skeleton.jpg",
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "Teal",
+            "White"
+        ],
+        "hex": [
+            [
+                20,
+                104,
+                136
+            ],
+            [
+                254,
+                254,
+                254
+            ]
+        ]
+    },
+    {
+        "name": "Snap Crackle Pop.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "RoyalBrown",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                113,
+                54,
+                62
+            ],
+            [
+                114,
+                198,
+                225
+            ]
+        ]
+    },
+    {
+        "name": "Snoopy.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "SeaSerpents"
+        ],
+        "hex": [
+            [
+                224,
+                235,
+                241
+            ],
+            [
+                117,
+                171,
+                225
+            ]
+        ]
+    },
+    {
+        "name": "SOLID BLACK ANKLE.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Cream"
+        ],
+        "hex": [
+            [
+                22,
+                22,
+                23
+            ],
+            [
+                229,
+                222,
+                228
+            ]
         ]
     },
     {
@@ -2034,20 +3247,689 @@
         "colors": [
             "blue",
             "yellow"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Cream"
+        ],
+        "hex": [
+            [
+                27,
+                25,
+                30
+            ],
+            [
+                238,
+                230,
+                211
+            ]
+        ]
+    },
+    {
+        "name": "SpongeBob Gary.jpg",
+        "colors": [
+            "white",
+            "red"
+        ],
+        "specifics": [
+            "White",
+            "MatteRed"
+        ],
+        "hex": [
+            [
+                252,
+                252,
+                252
+            ],
+            [
+                181,
+                140,
+                81
+            ]
+        ]
+    },
+    {
+        "name": "SpongeBob.jpg",
+        "colors": [
+            "yellow",
+            "white"
+        ],
+        "specifics": [
+            "Gold",
+            "White"
+        ],
+        "hex": [
+            [
+                230,
+                218,
+                66
+            ],
+            [
+                219,
+                241,
+                247
+            ]
+        ]
+    },
+    {
+        "name": "Spooky Season.jpg",
+        "colors": [
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Mustard"
+        ],
+        "hex": [
+            [
+                253,
+                253,
+                253
+            ],
+            [
+                172,
+                120,
+                49
+            ]
+        ]
+    },
+    {
+        "name": "Staffordshire Terrier Dog Sock.jpg",
+        "colors": [
+            "white",
+            "green"
+        ],
+        "specifics": [
+            "White",
+            "Algae"
+        ],
+        "hex": [
+            [
+                254,
+                253,
+                252
+            ],
+            [
+                54,
+                70,
+                99
+            ]
+        ]
+    },
+    {
+        "name": "Stone Age Classic Art.jpg",
+        "colors": [
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                232,
+                232,
+                227
+            ],
+            [
+                78,
+                79,
+                62
+            ]
+        ]
+    },
+    {
+        "name": "STREET WEAR.jpg",
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                246,
+                247,
+                246
+            ],
+            [
+                55,
+                15,
+                17
+            ]
+        ]
+    },
+    {
+        "name": "Taco.jpg",
+        "colors": [
+            "blue",
+            "black"
+        ],
+        "specifics": [
+            "SeaSerpents",
+            "Gray"
+        ],
+        "hex": [
+            [
+                148,
+                213,
+                221
+            ],
+            [
+                139,
+                118,
+                99
+            ]
+        ]
+    },
+    {
+        "name": "The Great Wave off Kanagawa.jpg",
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                253,
+                254,
+                254
+            ],
+            [
+                24,
+                58,
+                95
+            ]
+        ]
+    },
+    {
+        "name": "The Rolling Stones.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "Gold",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                222,
+                199,
+                182
+            ],
+            [
+                39,
+                25,
+                26
+            ]
+        ]
+    },
+    {
+        "name": "The Simpsons Krusty Burger.jpg",
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                251,
+                250,
+                247
+            ],
+            [
+                41,
+                41,
+                36
+            ]
+        ]
+    },
+    {
+        "name": "The Wild Thornberrys.jpg",
+        "colors": [
+            "yellow",
+            "yellow"
+        ],
+        "specifics": [
+            "Cream",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                245,
+                243,
+                213
+            ],
+            [
+                71,
+                45,
+                33
+            ]
+        ]
+    },
+    {
+        "name": "TOM & JERRY MISMATCH PAIR.jpg",
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "specifics": [
+            "White",
+            "Turqoise"
+        ],
+        "hex": [
+            [
+                254,
+                253,
+                253
+            ],
+            [
+                72,
+                91,
+                132
+            ]
+        ]
+    },
+    {
+        "name": "Tom and jerry.jpg",
+        "colors": [
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                254,
+                253,
+                252
+            ],
+            [
+                107,
+                114,
+                130
+            ]
+        ]
+    },
+    {
+        "name": "Travis Scott Cactus Jack.jpg",
+        "colors": [
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                253
+            ],
+            [
+                173,
+                157,
+                142
+            ]
+        ]
+    },
+    {
+        "name": "UNDERTAKER.jpg",
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "GunMetal",
+            "Silver"
+        ],
+        "hex": [
+            [
+                40,
+                33,
+                36
+            ],
+            [
+                201,
+                182,
+                176
+            ]
+        ]
+    },
+    {
+        "name": "Van Gogh Leon.jpg",
+        "colors": [
+            "green",
+            "white"
+        ],
+        "specifics": [
+            "Algae",
+            "Silver"
+        ],
+        "hex": [
+            [
+                38,
+                83,
+                104
+            ],
+            [
+                194,
+                218,
+                221
+            ]
+        ]
+    },
+    {
+        "name": "Van Gogh.jpg",
+        "colors": [
+            "green",
+            "white"
+        ],
+        "specifics": [
+            "MughalGreen",
+            "Silver"
+        ],
+        "hex": [
+            [
+                73,
+                112,
+                73
+            ],
+            [
+                198,
+                209,
+                219
+            ]
+        ]
+    },
+    {
+        "name": "Vans.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "Yellow",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                240,
+                229,
+                37
+            ],
+            [
+                32,
+                41,
+                17
+            ]
+        ]
+    },
+    {
+        "name": "Vintage Lining.jpg",
+        "colors": [
+            "yellow",
+            "blue"
+        ],
+        "specifics": [
+            "Cream",
+            "GunMetal"
+        ],
+        "hex": [
+            [
+                233,
+                224,
+                218
+            ],
+            [
+                39,
+                39,
+                32
+            ]
+        ]
+    },
+    {
+        "name": "Wheat Field With Cypresses.jpg",
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "specifics": [
+            "Turqoise",
+            "White"
+        ],
+        "hex": [
+            [
+                59,
+                132,
+                160
+            ],
+            [
+                252,
+                254,
+                254
+            ]
+        ]
+    },
+    {
+        "name": "White X Red Flame.jpg",
+        "colors": [
+            "white",
+            "red"
+        ],
+        "specifics": [
+            "White",
+            "Red"
+        ],
+        "hex": [
+            [
+                253,
+                251,
+                248
+            ],
+            [
+                247,
+                61,
+                41
+            ]
+        ]
+    },
+    {
+        "name": "Wine Red Fuzzy.jpg",
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "specifics": [
+            "DustStorm",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                214,
+                209,
+                200
+            ],
+            [
+                66,
+                24,
+                30
+            ]
+        ]
+    },
+    {
+        "name": "Woollen Beige Cozy.jpg",
+        "colors": [
+            "red",
+            "white"
+        ],
+        "specifics": [
+            "DustStorm",
+            "Silver"
+        ],
+        "hex": [
+            [
+                228,
+                220,
+                202
+            ],
+            [
+                186,
+                172,
+                155
+            ]
+        ]
+    },
+    {
+        "name": "Woollen Brown Cozy.jpg",
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "specifics": [
+            "DustStorm",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                228,
+                221,
+                202
+            ],
+            [
+                85,
+                54,
+                44
+            ]
+        ]
+    },
+    {
+        "name": "woollen khaki cozy.jpg",
+        "colors": [
+            "red",
+            "black"
+        ],
+        "specifics": [
+            "DustStorm",
+            "Gray"
+        ],
+        "hex": [
+            [
+                226,
+                216,
+                197
+            ],
+            [
+                142,
+                118,
+                96
+            ]
         ]
     },
     {
         "name": "Y’all Dizzy.jpg",
         "colors": [
-            "yellow",
-            "red"
+            "white",
+            "white"
+        ],
+        "specifics": [
+            "White",
+            "Silver"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                196,
+                174,
+                223
+            ]
+        ]
+    },
+    {
+        "name": "Zzz.jpg",
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "specifics": [
+            "Turqoise",
+            "Cream"
+        ],
+        "hex": [
+            [
+                46,
+                100,
+                140
+            ],
+            [
+                236,
+                231,
+                228
+            ]
+        ]
+    },
+    {
+        "name": "💀.jpg",
+        "colors": [
+            "white",
+            "black"
+        ],
+        "specifics": [
+            "White",
+            "Gray"
+        ],
+        "hex": [
+            [
+                254,
+                254,
+                254
+            ],
+            [
+                114,
+                113,
+                120
+            ]
         ]
     },
     {
         "name": "🕶️.jpg",
         "colors": [
-            "yellow",
-            "red"
+            "red",
+            "yellow"
+        ],
+        "specifics": [
+            "DustStorm",
+            "RoyalBrown"
+        ],
+        "hex": [
+            [
+                228,
+                206,
+                201
+            ],
+            [
+                125,
+                51,
+                59
+            ]
         ]
     }
 ]
