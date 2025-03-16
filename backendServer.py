@@ -5,6 +5,11 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from getColors import classify_color
+from AtlanoreFirestore import AtlanoreFirestore
+import threading
+from datetime import datetime
+from firebase_admin import credentials,firestore
+import firebase_admin
 
 app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "http://127.0.0.1:5500"}})
@@ -32,6 +37,11 @@ def remove_duplicates(lst):
     
     return unique_list
 
+# Initialize Firebase with your service account credentials
+cred = credentials.Certificate("keys/atlanoreinsights-firebase.json")
+firebase_admin.initialize_app(cred)
+db = firestore.client()
+
 @app.route('/')
 def home():
     return "Welcome to the Flask App!"
@@ -54,7 +64,7 @@ def get_feeling_llm_response():
         products = file.readlines()
     products = [product.replace("\n","") for product in products]
 
-    product_embeddings = np.load("data/embeddings.npy")
+    # product_embeddings = np.load("data/embeddings.npy")
     words = query.split()
     product_embeddings = np.load("data/embeddings.npy")
     keyword_embedding = model.encode(words)  # Single keyword query
@@ -67,6 +77,12 @@ def get_feeling_llm_response():
         result.append(products[idx])
 
     result = remove_duplicates(result)
+
+    # persist response
+    afs = AtlanoreFirestore(db)
+    date_time_string = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    t1 = threading.Thread(target=afs.persistFeelingSearch,args=(date_time_string,query,",".join(result)))
+    t1.start()
 
     # output (list)
     print("this is the data we are sending from the server",result)
@@ -102,6 +118,12 @@ def get_color_llm_response():
 
     colorsmatching = filtered
 
+     # persist response
+    afs = AtlanoreFirestore(db)
+    date_time_string = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    t1 = threading.Thread(target=afs.persistColorSearch,args=(date_time_string,color1,",".join(filtered)))
+    t1.start()
+
 
     details = [product_details[os.path.splitext(key)[0]] for key in colorsmatching if os.path.splitext(key)[0] in product_details]
 
@@ -124,6 +146,7 @@ def fetch_products_list():
         "imgList":details
     }
     return jsonify(data)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
